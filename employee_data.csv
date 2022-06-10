@@ -1,0 +1,1471 @@
+left_company,department,job_level,salary,weekly_hours,business_travel,yrs_at_company,yrs_since_promotion,previous_companies,job_satisfaction,performance_rating,marital_status,miles_from_home
+Yes,Sales,Director,118680.73971168992,56,Rarely,6,0,5,Very High,Meets Expectations,Single,1
+No,Sales,Senior Manager,85576.43679081727,42,Frequently,10,1,5,Medium,Exceeds Expectations,Married,8
+Yes,Product Development,Associate,46235.78532386095,56,Rarely,0,0,6,High,Minimally Effective,Single,2
+No,IT and Analytics,Director,117226.83749855778,50,Frequently,8,3,1,High,Exceptional,Married,3
+No,Sales,Associate,36634.7264845127,46,Rarely,2,2,2,Medium,Exceeds Expectations,Married,2
+No,Marketing,Senior Manager,83519.58538364834,48,Frequently,7,3,1,Very High,Meets Expectations,Single,2
+No,Marketing,Senior Manager,88555.64637631828,44,Rarely,1,0,3,Low,Meets Expectations,Married,3
+No,Sales,Director,122280.88160078265,47,Rarely,1,0,3,High,Exceptional,Divorced,24
+No,Finance and Operations,Senior Manager,94642.18320353459,50,Frequently,9,1,3,High,Meets Expectations,Single,23
+No,Product Development,Director,124537.85135034646,51,Rarely,7,7,3,High,Exceeds Expectations,Married,27
+No,Sales,Director,122820.53127240951,46,Rarely,5,0,1,Medium,Exceeds Expectations,Married,16
+No,Research,Manager,69565.50620335263,48,Rarely,9,0,3,High,Exceptional,Single,15
+No,Sales,Associate,41985.49762672971,48,Rarely,5,4,2,High,Meets Expectations,Divorced,26
+No,Sales,Director,117368.59802499178,48,Rarely,2,1,2,Very High,Meets Expectations,Divorced,19
+Yes,Marketing,Manager,63876.577772842684,57,Rarely,4,0,2,High,Minimally Effective,Single,24
+No,Marketing,Manager,74328.39866870202,47,Rarely,10,8,2,Low,Meets Expectations,Divorced,21
+No,Research,Associate,41883.7270941167,44,Rarely,6,0,3,Medium,Meets Expectations,Divorced,5
+No,Sales,Director,118269.47280027946,48,None,1,0,3,Very High,Exceeds Expectations,Divorced,16
+No,IT and Analytics,Senior Manager,84196.93415200849,52,Rarely,25,3,2,Very High,Exceeds Expectations,Married,2
+No,IT and Analytics,Manager,67105.33339536632,48,Rarely,3,1,3,Very High,Meets Expectations,Single,2
+No,Product Development,Senior Manager,93904.69066232802,50,None,4,1,3,High,Meets Expectations,Divorced,11
+Yes,Finance and Operations,Manager,56461.39339725681,58,Rarely,5,0,3,Low,Minimally Effective,Single,9
+No,Marketing,Senior Manager,97465.28552755847,50,Rarely,12,2,2,Medium,Exceeds Expectations,Single,7
+No,Marketing,Manager,69888.14471677397,47,Rarely,0,0,2,Very High,Meets Expectations,Single,15
+Yes,Marketing,Director,108649.197004909,54,Rarely,4,1,3,Low,Meets Expectations,Single,6
+No,Marketing,Manager,62391.23269133649,51,Rarely,14,4,1,High,Meets Expectations,Divorced,5
+Yes,Research,Director,119443.17090093017,62,Frequently,10,6,6,Low,Meets Expectations,Single,16
+No,Sales,Senior Manager,84021.07212572271,41,Rarely,9,4,3,Medium,Exceeds Expectations,Married,8
+No,Research,Director,116974.13837028858,49,Rarely,22,5,1,Very High,Exceptional,Married,7
+No,Marketing,Associate,37230.24501786173,51,Rarely,2,2,2,Low,Exceeds Expectations,Single,2
+No,Marketing,Manager,73141.96624142863,49,Rarely,1,0,1,Very High,Meets Expectations,Single,2
+No,Sales,Director,119629.23265604652,45,Rarely,4,1,2,Very High,Meets Expectations,Married,10
+No,Marketing,Director,126658.0149951985,50,Rarely,10,1,2,High,Not Effective,Single,9
+Yes,Product Development,Senior Manager,98022.30895556397,58,Rarely,1,0,5,Very High,Minimally Effective,Married,5
+Yes,Marketing,Senior Manager,93320.47573642501,57,Rarely,2,2,3,Very High,Minimally Effective,Married,1
+No,IT and Analytics,Director,130978.67249900583,42,Rarely,5,1,1,High,Meets Expectations,Divorced,2
+Yes,Sales,Associate,38538.66252334753,57,Rarely,3,0,6,High,Minimally Effective,Married,3
+No,Research,Senior Manager,82753.16746084712,55,Rarely,2,2,3,Very High,Meets Expectations,Married,2
+No,Product Development,Senior Manager,84914.24025593243,48,Rarely,1,0,2,Low,Meets Expectations,Married,5
+No,Product Development,Director,122196.64979906852,46,Frequently,5,1,7,Low,Meets Expectations,Married,1
+No,IT and Analytics,Senior Manager,82673.80782846546,52,Rarely,1,0,2,Very High,Exceptional,Divorced,4
+No,IT and Analytics,Director,128104.54978047547,48,Rarely,1,0,3,Low,Meets Expectations,Divorced,2
+Yes,Marketing,Associate,41806.43028781152,55,Rarely,1,0,5,High,Meets Expectations,Single,25
+No,Research,Senior Manager,97033.72456583162,48,Frequently,9,1,2,High,Exceeds Expectations,Single,8
+No,IT and Analytics,Director,125487.85575839183,50,Frequently,12,3,1,Very High,Not Effective,Single,1
+Yes,Research,Manager,58286.26804173852,62,Rarely,22,15,4,High,Not Effective,Married,12
+No,IT and Analytics,Manager,55826.65871000593,51,None,9,8,1,High,Meets Expectations,Single,23
+No,IT and Analytics,Manager,62669.328767888794,51,Rarely,1,0,3,Medium,Minimally Effective,Married,19
+No,Research,Senior Manager,93953.34107741185,55,Frequently,9,0,6,Very High,Exceeds Expectations,Single,5
+No,Marketing,Director,122057.3679033473,52,Rarely,1,0,3,Very High,Exceptional,Married,8
+Yes,Product Development,Manager,76106.17861020468,60,Rarely,1,0,5,High,Not Effective,Single,1
+Yes,Marketing,Associate,40426.27700579048,59,Rarely,2,2,4,High,Minimally Effective,Single,5
+No,Marketing,Senior Manager,95289.47954869067,45,Rarely,4,1,2,Low,Exceeds Expectations,Divorced,1
+No,Product Development,Vice President,173106.92816356264,49,None,4,2,2,Low,Exceeds Expectations,Married,11
+No,Sales,Manager,65729.97842793111,44,Rarely,2,0,3,Very High,Meets Expectations,Married,23
+No,IT and Analytics,Manager,66474.67926824976,51,Frequently,15,8,5,Very High,Meets Expectations,Single,1
+No,Research,Senior Manager,96532.02421825912,45,Frequently,9,1,2,Low,Exceeds Expectations,Married,18
+No,IT and Analytics,Manager,78620.99374210325,44,Rarely,2,2,3,Low,Meets Expectations,Married,23
+No,Marketing,Senior Manager,92033.48953456614,48,Rarely,7,1,3,Very High,Exceptional,Divorced,7
+No,Research,Director,109844.03257517997,45,Rarely,7,0,1,High,Exceeds Expectations,Divorced,1
+No,Finance and Operations,Director,125861.28377099466,45,Rarely,9,7,2,Very High,Exceeds Expectations,Married,1
+No,IT and Analytics,Vice President,208804.38508521498,51,Frequently,10,9,3,Very High,Exceeds Expectations,Single,29
+No,Research,Director,122721.91628515019,45,Rarely,27,13,2,High,Exceeds Expectations,Divorced,7
+No,Finance and Operations,Manager,64558.448713273625,50,Rarely,21,7,2,Low,Minimally Effective,Single,25
+No,Finance and Operations,Manager,63284.741932886995,54,Rarely,17,12,2,High,Meets Expectations,Divorced,8
+No,IT and Analytics,Manager,79599.7770356845,52,Rarely,5,0,7,High,Minimally Effective,Divorced,8
+No,IT and Analytics,Associate,36913.313131414354,46,Frequently,6,0,3,Medium,Exceptional,Single,11
+No,Product Development,Director,116325.33931081058,51,Rarely,1,0,2,Low,Exceeds Expectations,Divorced,7
+No,IT and Analytics,Senior Manager,79184.52480174112,43,Frequently,3,1,2,Low,Meets Expectations,Married,1
+Yes,Marketing,Manager,66679.03178607955,60,Rarely,1,0,6,High,Minimally Effective,Married,9
+No,Marketing,Senior Manager,88722.1405249435,49,Frequently,4,1,6,High,Exceeds Expectations,Single,1
+No,Marketing,Vice President,179739.34193847637,47,Rarely,5,0,6,Medium,Meets Expectations,Married,2
+No,Sales,Senior Manager,93138.30945159463,46,Rarely,1,1,3,Medium,Exceptional,Single,1
+No,IT and Analytics,Director,112409.36590591932,50,Rarely,10,0,3,Medium,Exceeds Expectations,Married,1
+No,IT and Analytics,Director,117334.80256278548,47,Rarely,1,0,3,Very High,Exceeds Expectations,Married,6
+No,IT and Analytics,Vice President,182882.15312483363,48,Rarely,11,1,3,Very High,Exceeds Expectations,Single,8
+No,Sales,Vice President,192416.17031285568,45,Rarely,15,2,2,Low,Meets Expectations,Single,1
+No,IT and Analytics,Senior Manager,83577.43934229753,47,Rarely,0,0,2,Low,Minimally Effective,Married,6
+No,Marketing,Senior Manager,93590.29811295882,47,Rarely,5,0,3,High,Exceeds Expectations,Single,7
+No,Research,Director,128579.57684271334,44,Rarely,4,0,2,Medium,Exceeds Expectations,Divorced,5
+No,Finance and Operations,Director,110540.69084442031,46,Rarely,10,3,1,Very High,Exceeds Expectations,Married,1
+No,Marketing,Senior Manager,104988.64098294836,51,Rarely,6,0,3,High,Exceeds Expectations,Single,1
+No,IT and Analytics,Manager,68110.29763957427,49,Rarely,1,1,3,Very High,Meets Expectations,Married,1
+No,Research,Senior Manager,84982.22420317626,48,None,13,1,2,Very High,Exceeds Expectations,Divorced,6
+No,Research,Director,122685.67013293976,42,Rarely,5,1,3,Medium,Exceeds Expectations,Married,1
+No,Research,Senior Manager,81509.28414315234,46,Rarely,6,0,2,Very High,Meets Expectations,Single,7
+No,Research,Director,128939.48359404274,49,Rarely,0,0,3,Low,Meets Expectations,Divorced,2
+No,IT and Analytics,Senior Manager,78161.40344698558,49,Rarely,4,0,4,Very High,Exceptional,Married,9
+No,Research,Associate,38353.51139819249,49,Rarely,11,10,2,Very High,Meets Expectations,Married,2
+Yes,Marketing,Director,121159.14413966429,59,Rarely,9,4,5,Very High,Meets Expectations,Single,9
+No,IT and Analytics,Senior Manager,83902.52492427813,46,Frequently,22,11,1,Medium,Exceeds Expectations,Married,1
+No,IT and Analytics,Senior Manager,90604.5576440219,45,Rarely,10,1,4,Very High,Exceptional,Single,21
+No,IT and Analytics,Director,115967.98520650505,49,Rarely,11,2,7,Medium,Exceptional,Divorced,4
+No,IT and Analytics,Manager,73126.89316178551,45,Frequently,10,9,3,Low,Exceeds Expectations,Married,1
+No,Product Development,Associate,34865.913164302896,48,Rarely,11,5,5,High,Meets Expectations,Single,6
+No,Sales,Vice President,193684.13664113916,44,Rarely,4,0,3,High,Exceeds Expectations,Married,2
+No,Research,Director,117906.67030862499,43,Rarely,3,0,1,High,Exceeds Expectations,Married,3
+No,Sales,Director,116509.56421354547,48,None,5,0,1,High,Exceeds Expectations,Married,4
+No,Sales,Manager,72983.545117114,46,Rarely,37,1,1,High,Meets Expectations,Single,10
+No,IT and Analytics,Director,125440.62216539301,49,None,3,1,1,Medium,Exceeds Expectations,Married,23
+Yes,Finance and Operations,Manager,76027.07405188089,58,Rarely,3,0,6,Low,Meets Expectations,Divorced,6
+No,Sales,Director,123313.59702100471,52,Rarely,1,0,2,Low,Meets Expectations,Single,1
+Yes,Product Development,Associate,43042.02668083031,59,Frequently,1,1,3,Very High,Meets Expectations,Single,6
+No,Finance and Operations,Senior Manager,80080.37512396243,52,Rarely,16,2,3,High,Meets Expectations,Single,6
+No,Marketing,Manager,67349.18620840783,49,None,1,0,2,Very High,Meets Expectations,Divorced,2
+No,IT and Analytics,Manager,73332.07969767318,48,None,3,2,5,Very High,Exceptional,Married,2
+No,Product Development,Director,111712.71695215645,46,Frequently,8,0,3,Medium,Meets Expectations,Married,1
+Yes,Product Development,Manager,63276.13310419727,64,Rarely,6,0,5,High,Not Effective,Single,5
+No,Finance and Operations,Senior Manager,85979.51156448103,47,Rarely,2,2,3,Very High,Exceeds Expectations,Married,7
+No,Research,Vice President,160239.54250992057,46,Rarely,0,0,1,Very High,Exceeds Expectations,Single,15
+No,IT and Analytics,Associate,33584.970667327645,49,Frequently,13,12,6,Low,Meets Expectations,Single,1
+Yes,Sales,Manager,82915.99177174964,63,Frequently,9,0,6,High,Not Effective,Single,7
+No,Sales,Manager,63545.36934123364,50,None,5,4,3,Very High,Meets Expectations,Single,26
+No,Marketing,Senior Manager,91811.45542682326,50,Rarely,5,1,3,High,Meets Expectations,Married,18
+No,IT and Analytics,Director,115697.3680442786,44,Rarely,1,0,2,Medium,Exceeds Expectations,Divorced,6
+No,Research,Senior Manager,82635.20586105787,49,Rarely,5,1,3,Very High,Exceptional,Single,3
+No,Marketing,Director,118572.73758806904,49,Rarely,11,5,4,Low,Meets Expectations,Single,5
+No,IT and Analytics,Manager,76472.40603715336,51,Frequently,9,2,3,Very High,Exceptional,Married,11
+No,Product Development,Associate,38231.06793968729,50,Rarely,1,0,5,Very High,Meets Expectations,Divorced,3
+No,IT and Analytics,Associate,33540.6134592988,48,Frequently,25,4,2,Very High,Minimally Effective,Married,26
+No,Marketing,Director,126568.88841768181,47,Frequently,10,0,3,High,Meets Expectations,Divorced,23
+No,IT and Analytics,Associate,35993.64864321018,50,None,7,0,5,Medium,Meets Expectations,Married,22
+Yes,IT and Analytics,Associate,45989.352092010915,58,Rarely,5,4,4,Medium,Minimally Effective,Married,14
+No,Marketing,Vice President,187709.29955712293,45,Rarely,20,15,2,High,Exceptional,Single,6
+Yes,Marketing,Associate,35987.17634275765,55,Rarely,7,7,6,High,Exceeds Expectations,Married,6
+No,IT and Analytics,Director,122057.3281611871,49,Rarely,5,4,6,Medium,Exceptional,Married,6
+Yes,Sales,Associate,37529.10681278883,60,Rarely,40,15,4,Very High,Meets Expectations,Married,23
+Yes,Finance and Operations,Senior Manager,85563.36131992535,64,Rarely,0,0,6,High,Meets Expectations,Single,22
+No,IT and Analytics,Senior Manager,78351.84334442229,49,Rarely,2,2,1,Very High,Exceptional,Married,2
+No,Sales,Director,122484.24770240499,47,Rarely,15,5,6,Low,Minimally Effective,Married,20
+No,Marketing,Director,114721.32915863222,55,Frequently,3,1,5,High,Meets Expectations,Single,28
+No,IT and Analytics,Director,117279.93520315338,48,Frequently,2,2,3,Very High,Meets Expectations,Single,12
+Yes,Sales,Associate,44875.00988216345,59,Rarely,2,2,5,High,Meets Expectations,Married,20
+No,Research,Director,127220.25247275167,49,Rarely,9,0,6,High,Meets Expectations,Divorced,9
+No,Sales,Senior Manager,100956.5566349324,50,Rarely,8,5,2,High,Meets Expectations,Married,25
+No,IT and Analytics,Senior Manager,101692.7092186024,45,Rarely,3,0,3,Medium,Exceeds Expectations,Divorced,6
+Yes,Marketing,Associate,44423.69570262391,66,Frequently,4,0,3,Very High,Exceeds Expectations,Single,8
+No,Product Development,Senior Manager,84567.91045720056,46,Rarely,15,5,3,High,Exceeds Expectations,Married,4
+No,Research,Senior Manager,92973.42477340031,51,Rarely,2,2,6,High,Exceeds Expectations,Married,28
+No,Marketing,Manager,69638.41596009336,47,Rarely,11,4,3,Very High,Exceeds Expectations,Married,9
+Yes,Sales,Senior Manager,95996.49424901746,60,Rarely,5,0,6,Low,Exceeds Expectations,Single,9
+No,IT and Analytics,Senior Manager,90698.32580867031,50,Rarely,6,0,3,Very High,Exceptional,Single,29
+No,Finance and Operations,Director,115317.8673238789,47,Rarely,3,2,3,High,Exceeds Expectations,Single,3
+No,Research,Manager,64655.38432595163,44,Rarely,5,0,5,High,Meets Expectations,Single,18
+No,IT and Analytics,Senior Manager,78870.25328476039,46,Frequently,8,0,3,Very High,Meets Expectations,Divorced,9
+No,Research,Senior Manager,83462.5302184044,49,Rarely,3,2,2,Low,Exceptional,Divorced,5
+No,Research,Associate,38374.530256832775,46,Rarely,5,1,3,Very High,Exceeds Expectations,Single,2
+No,Marketing,Senior Manager,82281.79709507128,53,Frequently,7,7,1,Low,Exceptional,Divorced,10
+No,Sales,Senior Manager,70302.90261279019,47,Rarely,5,1,2,Low,Meets Expectations,Married,9
+No,IT and Analytics,Manager,71290.61548780849,44,Rarely,1,0,2,Medium,Meets Expectations,Single,3
+No,Product Development,Director,126096.91889439148,43,Frequently,20,2,3,Medium,Exceeds Expectations,Divorced,26
+No,IT and Analytics,Director,117307.60701049535,47,Rarely,10,0,4,Medium,Exceptional,Married,1
+No,Sales,Associate,42255.86859456758,54,Rarely,7,4,2,High,Exceptional,Married,6
+No,IT and Analytics,Vice President,168354.16317414836,44,Rarely,17,0,4,Medium,Meets Expectations,Divorced,9
+No,Research,Vice President,177920.82741119654,50,Frequently,9,3,3,Very High,Exceeds Expectations,Single,8
+No,Finance and Operations,Director,113820.58337768246,52,None,10,0,7,High,Exceeds Expectations,Married,1
+No,Finance and Operations,Manager,60882.983658122,45,Rarely,1,0,3,High,Exceptional,Married,7
+No,IT and Analytics,Director,123535.31855679923,47,Rarely,1,0,5,Medium,Exceeds Expectations,Married,9
+No,Marketing,Director,118187.6716139579,54,Rarely,12,2,6,Very High,Minimally Effective,Married,4
+No,Research,Vice President,189161.50088042772,45,Frequently,4,1,5,High,Exceeds Expectations,Married,2
+No,Product Development,Manager,67455.56592945661,45,Rarely,2,2,3,Very High,Meets Expectations,Married,19
+No,Sales,Senior Manager,94914.33507458583,51,None,2,2,1,Medium,Exceeds Expectations,Divorced,9
+No,Marketing,Vice President,191915.04502600463,45,Rarely,5,0,2,Very High,Meets Expectations,Married,21
+No,IT and Analytics,Vice President,189356.97552898555,51,Rarely,5,1,1,Very High,Exceeds Expectations,Divorced,24
+No,Marketing,Senior Manager,111266.35274012905,44,None,1,0,2,High,Meets Expectations,Divorced,3
+No,IT and Analytics,Senior Manager,85945.93793752586,52,Rarely,5,4,2,Medium,Exceeds Expectations,Single,11
+No,Sales,Senior Manager,94908.54784292154,47,Rarely,9,1,2,High,Exceptional,Divorced,14
+No,IT and Analytics,Senior Manager,88508.54978680851,44,Rarely,10,7,2,Very High,Exceeds Expectations,Married,5
+No,Sales,Director,117116.10109140408,50,Rarely,8,0,2,Very High,Exceeds Expectations,Single,1
+No,Sales,Vice President,172647.77049897308,48,Rarely,5,1,3,High,Exceeds Expectations,Single,6
+No,IT and Analytics,Associate,42303.837041690946,52,Rarely,5,1,3,Medium,Exceeds Expectations,Married,17
+Yes,Finance and Operations,Director,130037.18623457651,54,Frequently,0,0,2,Low,Minimally Effective,Single,1
+No,Product Development,Senior Manager,84186.90201938535,48,Frequently,8,7,1,Medium,Exceptional,Single,3
+No,IT and Analytics,Manager,66569.74134791453,44,None,12,6,5,Low,Meets Expectations,Divorced,9
+No,IT and Analytics,Director,122289.7110284151,51,Rarely,5,0,3,Low,Meets Expectations,Divorced,4
+No,Marketing,Senior Manager,91116.20023516368,49,Rarely,2,2,1,Low,Exceptional,Divorced,8
+No,Research,Manager,67174.1793976787,50,Rarely,3,0,2,Very High,Exceptional,Single,2
+Yes,Finance and Operations,Senior Manager,92450.99792614428,60,Rarely,1,1,6,Very High,Meets Expectations,Single,2
+No,IT and Analytics,Senior Manager,91732.94094719415,49,Rarely,24,15,2,Low,Meets Expectations,Divorced,1
+No,Finance and Operations,Senior Manager,93434.89618658565,48,Rarely,2,2,3,Very High,Exceptional,Single,9
+No,IT and Analytics,Vice President,181631.68362888202,44,Rarely,4,0,5,Very High,Exceeds Expectations,Married,12
+No,Marketing,Manager,73476.7168586251,47,Rarely,3,1,2,Medium,Meets Expectations,Single,27
+Yes,IT and Analytics,Manager,71713.8283736054,58,Rarely,4,0,6,Medium,Minimally Effective,Single,20
+No,IT and Analytics,Senior Manager,88191.29884265177,50,Rarely,3,0,6,High,Meets Expectations,Married,1
+No,Marketing,Senior Manager,80321.89932296782,53,Rarely,4,1,2,Low,Meets Expectations,Divorced,13
+No,Research,Manager,79326.86145233293,50,Rarely,8,1,3,Medium,Exceeds Expectations,Married,14
+No,Sales,Senior Manager,94552.49539021702,49,Rarely,20,9,2,High,Meets Expectations,Married,4
+No,IT and Analytics,Senior Manager,100236.99749992418,48,Rarely,24,2,7,Medium,Exceeds Expectations,Single,14
+No,Sales,Senior Manager,85085.60751208552,50,Frequently,10,1,4,High,Exceptional,Married,2
+No,IT and Analytics,Senior Manager,89019.29524241104,47,Rarely,7,1,3,Medium,Exceptional,Single,3
+No,Product Development,Senior Manager,101306.7423277784,54,Rarely,33,11,2,High,Exceeds Expectations,Married,1
+No,IT and Analytics,Associate,39749.664573525144,49,Rarely,7,0,3,Medium,Exceeds Expectations,Single,9
+Yes,Product Development,Associate,36059.98931545942,58,Rarely,1,0,5,High,Minimally Effective,Married,23
+No,Product Development,Director,121131.9770362025,45,None,5,2,2,Very High,Minimally Effective,Divorced,7
+No,Product Development,Vice President,187280.6103318804,51,None,20,11,3,Very High,Meets Expectations,Married,2
+No,IT and Analytics,Manager,69775.47796339371,53,Rarely,8,1,3,Low,Exceeds Expectations,Married,21
+No,Research,Senior Manager,90966.4793086298,48,Frequently,6,1,2,Medium,Meets Expectations,Single,2
+No,Marketing,Senior Manager,107724.98652948883,49,None,5,0,2,High,Exceptional,Divorced,21
+No,IT and Analytics,Senior Manager,86713.09120321361,46,Rarely,1,0,5,High,Exceptional,Married,2
+No,Finance and Operations,Director,117643.54362627525,54,Rarely,7,1,3,Very High,Exceeds Expectations,Married,29
+No,Research,Senior Manager,92031.70495305653,52,Frequently,2,2,3,Low,Exceptional,Married,1
+No,Sales,Manager,66245.86932784309,51,None,7,1,1,Very High,Meets Expectations,Divorced,18
+No,IT and Analytics,Associate,46043.57736429449,54,Frequently,5,2,1,High,Exceptional,Divorced,10
+No,Research,Director,116307.65299837184,50,Rarely,7,3,3,Very High,Meets Expectations,Married,19
+Yes,Product Development,Director,112853.50351402981,54,Rarely,1,0,6,Low,Minimally Effective,Married,29
+Yes,Finance and Operations,Associate,41923.20366183587,57,Rarely,10,1,5,Very High,Minimally Effective,Married,27
+No,Marketing,Vice President,173760.96894401885,49,Rarely,4,2,3,Medium,Meets Expectations,Divorced,5
+No,IT and Analytics,Senior Manager,91566.62105072266,48,Frequently,8,1,2,Very High,Exceeds Expectations,Single,18
+No,Product Development,Senior Manager,97111.36589674574,51,None,3,0,3,Very High,Exceptional,Married,9
+No,Research,Vice President,193377.06885607654,50,Rarely,4,0,3,Low,Meets Expectations,Divorced,1
+Yes,Product Development,Manager,64791.145674145504,53,Rarely,14,9,5,Very High,Meets Expectations,Married,4
+No,Marketing,Manager,79386.65765902452,47,None,11,5,3,High,Meets Expectations,Single,1
+No,IT and Analytics,Associate,38679.694739099396,52,Frequently,7,0,2,High,Exceeds Expectations,Single,20
+No,Marketing,Director,128020.67098849003,47,Rarely,10,4,4,Medium,Exceeds Expectations,Married,8
+Yes,IT and Analytics,Manager,68147.59528037233,54,Rarely,5,0,2,Low,Meets Expectations,Single,3
+No,Finance and Operations,Senior Manager,90960.60040706371,48,Rarely,1,0,2,Very High,Meets Expectations,Single,6
+Yes,Sales,Manager,64525.06507654555,59,Frequently,6,0,4,Low,Meets Expectations,Single,26
+Yes,Marketing,Manager,72494.67416993315,62,Rarely,6,1,6,High,Meets Expectations,Single,1
+No,Product Development,Director,116711.74517491032,49,None,19,12,3,Very High,Exceeds Expectations,Single,6
+No,Marketing,Senior Manager,101261.85607252318,50,Rarely,6,0,2,Low,Meets Expectations,Married,3
+No,Marketing,Senior Manager,86023.8000642851,47,Rarely,13,3,3,Medium,Meets Expectations,Single,5
+No,IT and Analytics,Director,132343.65130793638,49,Rarely,3,1,3,Medium,Meets Expectations,Married,4
+No,Product Development,Senior Manager,94035.81609652005,52,Frequently,10,0,3,Very High,Meets Expectations,Divorced,11
+No,Research,Manager,67614.644124290935,46,Rarely,16,5,2,High,Meets Expectations,Divorced,3
+No,Marketing,Vice President,203186.07541913088,43,None,5,1,2,High,Exceeds Expectations,Married,1
+No,Sales,Vice President,182421.87540982067,51,Rarely,1,0,3,Very High,Exceptional,Married,3
+No,Research,Associate,37432.18811300518,53,Frequently,9,5,3,Very High,Meets Expectations,Divorced,4
+No,IT and Analytics,Manager,70241.33876046304,49,Frequently,11,4,1,Very High,Meets Expectations,Married,1
+No,Product Development,Manager,78841.02519623068,47,Frequently,10,0,1,High,Meets Expectations,Single,1
+Yes,Sales,Manager,70500.91985758366,60,Rarely,4,0,5,Very High,Minimally Effective,Single,18
+No,IT and Analytics,Manager,74103.20488099969,53,Rarely,2,2,2,Very High,Exceeds Expectations,Single,2
+No,Research,Director,120599.86594452651,48,Rarely,22,11,2,Very High,Exceptional,Married,4
+No,Sales,Vice President,178303.595903525,48,Rarely,2,2,2,High,Exceeds Expectations,Married,6
+No,Research,Senior Manager,99815.54343223275,48,Rarely,7,0,1,Very High,Meets Expectations,Divorced,1
+Yes,Research,Associate,37146.94853321242,57,Rarely,5,0,5,Very High,Minimally Effective,Married,14
+No,IT and Analytics,Senior Manager,91196.16330513326,49,Rarely,17,1,3,Very High,Exceptional,Married,16
+Yes,Marketing,Manager,66368.36649324448,58,Rarely,9,1,4,Low,Exceeds Expectations,Married,2
+No,Marketing,Vice President,167817.8559542831,42,None,33,15,1,High,Exceptional,Single,2
+No,IT and Analytics,Vice President,171140.4069783718,49,Rarely,4,1,2,Medium,Exceeds Expectations,Married,4
+Yes,Product Development,Associate,42009.71839268322,56,Rarely,3,1,6,High,Minimally Effective,Single,1
+No,Finance and Operations,Senior Manager,104562.01954699378,47,Rarely,3,1,3,High,Exceeds Expectations,Divorced,1
+No,Product Development,Director,124162.05513902349,47,None,3,2,4,Very High,Exceeds Expectations,Married,26
+No,Sales,Associate,43891.083489623314,45,Rarely,1,0,1,Low,Exceeds Expectations,Divorced,19
+No,Research,Director,119365.10914727335,51,Rarely,9,4,7,Very High,Meets Expectations,Divorced,24
+No,Product Development,Senior Manager,85977.85072956755,57,Rarely,24,1,3,Very High,Minimally Effective,Married,1
+No,IT and Analytics,Manager,69208.8370997911,45,Frequently,2,2,3,High,Exceeds Expectations,Divorced,3
+No,Sales,Senior Manager,90036.18933025912,49,Rarely,2,0,4,Very High,Exceeds Expectations,Married,5
+No,Finance and Operations,Senior Manager,96432.60648408624,47,Rarely,11,5,3,Low,Minimally Effective,Married,2
+No,Marketing,Director,127208.80567969359,46,Rarely,3,0,3,Low,Meets Expectations,Married,1
+No,Sales,Manager,64048.28144204346,51,Frequently,3,0,3,High,Meets Expectations,Married,7
+Yes,Sales,Director,138604.5451719902,62,Frequently,1,0,6,High,Meets Expectations,Divorced,10
+No,IT and Analytics,Senior Manager,86775.96628432795,48,Frequently,19,11,3,High,Meets Expectations,Single,2
+No,Sales,Manager,61697.571397087864,48,Rarely,6,1,2,Very High,Exceeds Expectations,Single,15
+No,Research,Manager,69898.7421217533,45,Rarely,3,0,3,Low,Exceeds Expectations,Single,17
+No,IT and Analytics,Senior Manager,79702.15143584654,48,Rarely,3,0,3,Very High,Meets Expectations,Divorced,20
+No,Marketing,Manager,61198.32925449151,46,Rarely,4,1,4,High,Exceptional,Married,1
+No,IT and Analytics,Senior Manager,80731.64499421575,45,Rarely,9,7,3,Low,Meets Expectations,Divorced,2
+No,Sales,Senior Manager,90335.02360502067,52,Rarely,21,3,3,High,Meets Expectations,Divorced,2
+No,Marketing,Director,126171.06147809429,45,Rarely,1,0,3,Very High,Exceeds Expectations,Married,1
+Yes,Sales,Associate,42069.83546517348,57,Frequently,5,1,5,Medium,Meets Expectations,Single,29
+No,Research,Associate,33276.5365048842,49,Frequently,5,0,2,Medium,Meets Expectations,Married,7
+No,Research,Senior Manager,97504.13014280633,47,None,8,7,7,Very High,Exceeds Expectations,Married,2
+No,IT and Analytics,Senior Manager,100764.57041787077,50,Rarely,6,0,3,Low,Meets Expectations,Single,2
+No,IT and Analytics,Manager,73228.9406274665,46,Rarely,7,7,7,Medium,Exceptional,Married,2
+Yes,Product Development,Manager,81185.86897578495,55,Rarely,0,0,5,High,Meets Expectations,Single,2
+No,Finance and Operations,Manager,63496.57910803739,44,Rarely,0,0,3,Medium,Exceeds Expectations,Married,2
+No,Finance and Operations,Senior Manager,88991.1001901311,49,Rarely,9,7,2,Very High,Minimally Effective,Married,23
+No,Research,Director,117411.71424232745,50,None,6,1,2,Low,Minimally Effective,Divorced,5
+No,IT and Analytics,Associate,43126.09496443598,46,Rarely,20,4,3,Very High,Meets Expectations,Married,20
+No,IT and Analytics,Senior Manager,91606.68395535371,51,Rarely,15,10,3,Very High,Meets Expectations,Married,6
+No,IT and Analytics,Director,117305.98906330984,49,Rarely,36,4,2,Low,Exceptional,Single,1
+Yes,Marketing,Senior Manager,92852.92967357034,57,None,10,9,3,Medium,Minimally Effective,Married,29
+No,Product Development,Vice President,187029.5258030986,44,Rarely,5,0,2,Very High,Exceptional,Married,9
+No,Research,Manager,66944.74090299068,52,Rarely,5,0,4,Very High,Exceptional,Married,6
+No,Finance and Operations,Manager,76127.82867271363,52,Rarely,3,1,3,High,Meets Expectations,Single,3
+No,Research,Senior Manager,93810.04202723612,53,None,5,0,2,Very High,Meets Expectations,Divorced,1
+No,Research,Senior Manager,89414.36969927538,47,Rarely,7,6,2,Medium,Meets Expectations,Divorced,22
+No,Product Development,Senior Manager,86989.92360792751,49,Rarely,8,7,2,Low,Exceptional,Divorced,7
+No,Sales,Director,124340.85066316846,53,Frequently,6,1,2,Medium,Exceeds Expectations,Divorced,1
+No,Product Development,Senior Manager,93634.97968947016,45,Rarely,10,1,2,Medium,Exceeds Expectations,Divorced,4
+No,Research,Senior Manager,82867.8349426992,49,Rarely,5,1,2,High,Meets Expectations,Married,3
+No,IT and Analytics,Manager,87331.19329558346,50,Rarely,20,11,3,High,Not Effective,Married,1
+No,Product Development,Senior Manager,93770.24749844371,46,Frequently,10,0,1,Very High,Exceeds Expectations,Single,2
+No,Research,Vice President,174888.43498550155,52,Rarely,10,0,1,Very High,Exceeds Expectations,Married,20
+No,Product Development,Manager,80100.64615634712,49,Frequently,5,3,6,Low,Exceptional,Married,11
+No,Research,Senior Manager,86365.56750563896,45,Rarely,17,5,3,Very High,Meets Expectations,Single,1
+Yes,Product Development,Manager,74262.98749142635,55,Frequently,1,0,6,High,Exceeds Expectations,Divorced,24
+No,Marketing,Senior Manager,85956.73470836776,48,Rarely,2,1,2,Very High,Exceeds Expectations,Divorced,23
+Yes,Marketing,Associate,38541.749630399114,59,Rarely,3,0,4,Medium,Minimally Effective,Divorced,16
+No,Research,Senior Manager,78291.45622229806,48,Rarely,5,0,3,Very High,Meets Expectations,Single,8
+No,Research,Director,112903.74506049637,44,Frequently,3,1,2,Low,Exceeds Expectations,Single,10
+No,Sales,Director,126669.54925625418,51,Rarely,8,7,2,Medium,Exceptional,Single,3
+No,IT and Analytics,Director,121628.74079217487,48,Frequently,2,2,5,Medium,Meets Expectations,Divorced,5
+Yes,Sales,Manager,72727.71709581873,58,Rarely,8,7,6,Very High,Not Effective,Single,4
+No,Product Development,Director,108868.56928415151,51,Frequently,4,1,1,Very High,Meets Expectations,Married,9
+No,IT and Analytics,Senior Manager,91526.35352658412,47,Frequently,20,4,2,Medium,Exceptional,Married,26
+Yes,Finance and Operations,Associate,44663.367550499584,63,Rarely,0,0,7,High,Meets Expectations,Single,3
+No,Research,Senior Manager,95146.85017584707,50,Rarely,11,6,2,Medium,Minimally Effective,Married,16
+No,Research,Associate,35669.012732888594,46,Frequently,1,0,3,Very High,Meets Expectations,Married,18
+No,IT and Analytics,Manager,66590.27901296545,53,Rarely,4,1,7,Medium,Meets Expectations,Divorced,2
+No,IT and Analytics,Director,114380.95900935763,47,Rarely,22,0,2,Medium,Meets Expectations,Single,2
+No,Product Development,Director,125489.96228440976,48,Rarely,0,0,3,High,Exceeds Expectations,Single,10
+No,Research,Senior Manager,82474.37637321773,49,Rarely,8,0,4,Low,Exceeds Expectations,Single,16
+No,Marketing,Director,123467.32785040986,45,Rarely,8,7,3,Very High,Exceptional,Married,7
+No,IT and Analytics,Associate,38601.617755832674,52,Rarely,18,3,1,Very High,Meets Expectations,Divorced,1
+No,Finance and Operations,Senior Manager,82561.01250290949,48,None,9,0,5,Medium,Meets Expectations,Married,24
+No,Product Development,Manager,80228.56120812068,49,Rarely,13,4,2,High,Exceeds Expectations,Married,7
+No,Research,Senior Manager,82725.60210336598,52,Rarely,10,0,3,Medium,Exceeds Expectations,Married,25
+No,Research,Vice President,183516.59511223668,49,None,5,1,5,High,Exceptional,Divorced,1
+No,IT and Analytics,Senior Manager,96703.34740723456,49,Rarely,5,0,3,Very High,Exceptional,Married,5
+No,Marketing,Director,119933.18946229664,52,Rarely,2,1,3,Low,Not Effective,Married,2
+No,Research,Director,122928.3585816566,54,Frequently,24,9,6,Low,Meets Expectations,Divorced,7
+No,IT and Analytics,Senior Manager,88127.58027989476,48,Rarely,2,2,3,Very High,Minimally Effective,Divorced,2
+No,IT and Analytics,Senior Manager,96212.17589570476,48,Frequently,10,8,3,Medium,Exceptional,Married,5
+No,Marketing,Manager,78763.40363725291,51,Rarely,21,11,2,Low,Exceeds Expectations,Married,10
+No,Product Development,Senior Manager,93365.34465103001,47,Frequently,8,1,6,Very High,Exceptional,Single,10
+No,Research,Manager,78547.0274979519,49,Rarely,7,0,1,High,Exceptional,Single,1
+Yes,Sales,Manager,73148.36386021398,62,Rarely,8,7,5,Medium,Exceeds Expectations,Married,8
+No,Research,Manager,68660.27789701534,53,Rarely,4,1,1,Medium,Meets Expectations,Single,5
+No,IT and Analytics,Manager,78375.93150427297,44,Rarely,13,11,3,Medium,Exceeds Expectations,Married,8
+No,IT and Analytics,Vice President,185893.34088094937,42,Rarely,5,0,2,High,Exceptional,Single,2
+No,Sales,Director,122744.98812308085,49,Rarely,7,1,3,Very High,Exceptional,Divorced,7
+No,Marketing,Senior Manager,84532.6383769196,50,Rarely,7,0,3,Very High,Exceptional,Single,2
+Yes,IT and Analytics,Manager,66759.02309940069,60,Rarely,3,2,6,Very High,Minimally Effective,Married,2
+No,IT and Analytics,Associate,39303.518517251694,42,Rarely,10,1,3,Very High,Exceptional,Married,28
+No,Marketing,Manager,85143.37274250275,45,Frequently,10,8,3,High,Exceptional,Married,7
+No,IT and Analytics,Vice President,171085.87433894142,48,Frequently,21,13,3,Very High,Meets Expectations,Married,7
+Yes,IT and Analytics,Director,109451.41854117316,55,Rarely,1,0,3,High,Meets Expectations,Married,3
+No,Finance and Operations,Director,116724.00591864692,51,Frequently,7,0,2,Very High,Exceeds Expectations,Single,10
+No,Research,Manager,69833.68810333459,45,Rarely,3,1,1,High,Meets Expectations,Married,5
+No,Sales,Associate,43149.48285358802,58,Frequently,9,0,3,High,Exceptional,Divorced,10
+No,IT and Analytics,Director,128437.28701418173,54,None,5,1,3,Medium,Exceeds Expectations,Married,1
+No,Product Development,Senior Manager,84845.3044051993,44,Frequently,4,0,2,High,Meets Expectations,Single,20
+No,Product Development,Senior Manager,92140.37199503212,46,Rarely,1,0,2,Low,Exceeds Expectations,Married,7
+No,Sales,Manager,68412.27698293616,53,Rarely,10,9,3,Very High,Exceeds Expectations,Married,8
+No,Sales,Director,118684.62627033882,51,Rarely,4,0,3,Very High,Exceeds Expectations,Married,1
+Yes,Marketing,Manager,73846.38801242907,61,Rarely,7,0,4,Low,Minimally Effective,Married,8
+No,IT and Analytics,Manager,60879.54350853014,48,Rarely,3,2,2,Very High,Exceeds Expectations,Single,9
+No,IT and Analytics,Senior Manager,93728.48638548085,53,Rarely,10,1,2,High,Minimally Effective,Divorced,5
+No,Product Development,Senior Manager,86220.6429381327,48,Rarely,8,0,1,Medium,Meets Expectations,Married,8
+No,IT and Analytics,Vice President,179146.04630771035,51,Rarely,6,0,3,Very High,Exceptional,Divorced,5
+No,IT and Analytics,Manager,68007.77452021957,46,Rarely,11,2,3,Very High,Exceeds Expectations,Divorced,15
+No,Marketing,Director,125967.63751250562,49,Rarely,11,4,3,Very High,Meets Expectations,Single,7
+No,Product Development,Associate,36296.55819831768,46,Rarely,7,1,3,Medium,Exceeds Expectations,Divorced,10
+No,IT and Analytics,Senior Manager,82929.32278935115,50,Rarely,16,0,5,Medium,Exceptional,Single,5
+No,Marketing,Senior Manager,93891.16066681739,50,Rarely,4,0,3,Very High,Meets Expectations,Divorced,26
+No,Product Development,Manager,64454.95240623737,44,Rarely,5,1,3,Medium,Meets Expectations,Single,6
+No,IT and Analytics,Senior Manager,92745.226755907,44,Frequently,0,0,2,High,Exceeds Expectations,Single,4
+No,Sales,Director,111718.44935376526,53,Rarely,1,0,3,Very High,Exceptional,Single,23
+No,IT and Analytics,Vice President,177485.8799698317,50,None,4,0,2,High,Exceptional,Married,2
+No,Research,Director,132176.53486328406,47,Rarely,3,1,2,High,Exceptional,Divorced,2
+No,Research,Senior Manager,80502.91304834797,50,Rarely,8,0,7,Medium,Meets Expectations,Married,2
+No,Sales,Director,115793.55462239165,50,Rarely,0,0,4,High,Meets Expectations,Married,29
+No,Marketing,Manager,82498.1727834562,53,Rarely,7,6,2,Low,Meets Expectations,Divorced,6
+No,IT and Analytics,Director,124888.96443063294,53,None,2,2,3,High,Exceeds Expectations,Married,25
+No,Sales,Senior Manager,92139.38794286182,45,Rarely,8,7,2,High,Exceeds Expectations,Married,1
+No,IT and Analytics,Associate,36960.02337181989,51,Rarely,1,0,2,Very High,Exceeds Expectations,Single,2
+Yes,IT and Analytics,Vice President,167621.7767614936,58,Frequently,3,1,4,Medium,Meets Expectations,Single,1
+No,Research,Manager,67005.29513947791,50,None,1,0,3,Very High,Exceptional,Single,1
+No,Marketing,Senior Manager,79101.57923455983,46,Frequently,13,1,3,Very High,Meets Expectations,Married,3
+No,Research,Senior Manager,100371.49156490155,45,Rarely,3,1,3,High,Exceeds Expectations,Married,1
+No,Sales,Manager,75760.3106203502,44,Rarely,7,1,1,High,Exceptional,Married,10
+No,Sales,Manager,50335.653339641976,46,None,3,2,7,Very High,Exceeds Expectations,Single,9
+Yes,Sales,Associate,37443.107998044674,60,Rarely,1,0,4,High,Meets Expectations,Single,5
+No,Sales,Director,123525.2424011134,47,Rarely,5,0,5,Low,Exceeds Expectations,Married,10
+No,Marketing,Vice President,181043.34037064822,51,None,1,0,2,High,Meets Expectations,Married,7
+Yes,Sales,Senior Manager,93471.75702292036,61,Frequently,8,7,7,Medium,Minimally Effective,Single,4
+No,Marketing,Senior Manager,85606.00217596082,47,Rarely,4,1,7,Very High,Exceptional,Single,10
+Yes,Finance and Operations,Manager,77383.40023575816,55,Rarely,6,1,3,High,Meets Expectations,Married,22
+No,IT and Analytics,Manager,55508.6727216423,49,Rarely,2,2,3,Medium,Exceptional,Single,9
+Yes,Finance and Operations,Vice President,205266.8986254481,66,Rarely,1,0,6,Medium,Meets Expectations,Single,12
+No,IT and Analytics,Senior Manager,93285.112997637,51,Rarely,3,1,6,Very High,Exceptional,Single,23
+No,Product Development,Manager,66035.62771100966,46,Rarely,1,0,5,Medium,Meets Expectations,Single,9
+No,Marketing,Manager,59453.533051796534,41,Rarely,5,0,3,Medium,Exceptional,Divorced,1
+No,Research,Senior Manager,94094.56545231219,47,Rarely,7,0,3,Very High,Exceeds Expectations,Single,9
+No,Research,Vice President,188960.23574685334,48,Rarely,5,0,2,High,Exceeds Expectations,Single,7
+No,Research,Manager,62995.134012541625,51,Rarely,7,0,6,Very High,Meets Expectations,Married,14
+No,Product Development,Director,129021.60605322558,48,Rarely,2,2,3,High,Exceeds Expectations,Married,2
+Yes,IT and Analytics,Manager,63708.85015994137,59,None,5,0,3,Very High,Minimally Effective,Single,19
+No,Research,Senior Manager,94449.37896607417,51,Rarely,5,1,5,Very High,Meets Expectations,Single,2
+No,Research,Director,119657.43708330403,49,Rarely,5,0,2,High,Exceeds Expectations,Divorced,10
+No,Research,Senior Manager,75834.88375597468,43,Rarely,1,0,5,Medium,Meets Expectations,Married,2
+Yes,Finance and Operations,Senior Manager,92324.56284881338,55,Frequently,6,0,4,Low,Meets Expectations,Single,3
+No,Product Development,Manager,75146.45692642801,46,Rarely,2,1,2,Medium,Meets Expectations,Married,11
+No,IT and Analytics,Manager,70370.65469445747,50,Rarely,10,9,2,High,Exceeds Expectations,Married,2
+Yes,Product Development,Associate,40116.56686295577,58,Frequently,1,0,4,Very High,Minimally Effective,Single,4
+No,IT and Analytics,Senior Manager,92527.85595080016,49,Rarely,18,12,2,Low,Exceeds Expectations,Divorced,14
+No,Research,Manager,72848.03783915081,55,Rarely,5,1,3,Medium,Exceptional,Divorced,2
+No,Finance and Operations,Manager,73149.98770963674,43,Rarely,5,1,3,Low,Meets Expectations,Divorced,1
+No,Sales,Associate,41798.67890511746,48,Rarely,1,0,2,Medium,Exceptional,Single,10
+No,Sales,Senior Manager,85998.85407936561,50,Rarely,25,3,3,Medium,Exceeds Expectations,Divorced,12
+No,IT and Analytics,Manager,60593.24257119608,51,Rarely,1,0,1,High,Exceeds Expectations,Married,2
+No,Product Development,Director,129812.40497937796,48,Rarely,4,1,2,Low,Exceptional,Married,5
+No,Product Development,Director,122014.24545610664,48,None,3,1,3,High,Exceeds Expectations,Married,4
+No,Finance and Operations,Manager,67662.6799820611,48,Rarely,13,3,2,Low,Meets Expectations,Married,7
+No,Sales,Director,117910.25516877008,50,Frequently,3,1,3,Very High,Exceeds Expectations,Married,21
+No,Research,Senior Manager,88345.24149593558,46,Rarely,5,0,3,High,Exceeds Expectations,Divorced,8
+No,Research,Senior Manager,99526.02543861791,46,Rarely,5,1,2,Very High,Meets Expectations,Single,4
+No,Research,Vice President,171433.86501377457,45,None,13,10,4,High,Exceeds Expectations,Married,25
+No,Marketing,Director,123340.21655039012,47,Rarely,4,3,3,Low,Exceeds Expectations,Married,1
+No,IT and Analytics,Director,125277.63848501882,51,Frequently,21,1,2,High,Meets Expectations,Divorced,1
+No,Marketing,Manager,73879.39776757572,50,Frequently,7,7,2,Low,Exceptional,Married,6
+No,Research,Manager,69548.43471336254,46,Rarely,5,4,2,High,Exceeds Expectations,Single,12
+No,Product Development,Vice President,195345.34739586117,45,Rarely,10,0,4,Low,Meets Expectations,Married,1
+No,IT and Analytics,Senior Manager,84934.64668873811,48,Rarely,10,1,1,Low,Exceeds Expectations,Divorced,17
+Yes,Marketing,Associate,44124.2080274217,58,Rarely,2,0,5,Low,Meets Expectations,Married,3
+No,Research,Senior Manager,93105.45200063239,47,Rarely,5,0,2,High,Exceeds Expectations,Married,3
+No,Marketing,Senior Manager,86021.96739590772,47,Rarely,2,0,3,Very High,Exceeds Expectations,Married,10
+No,IT and Analytics,Associate,37036.48897805845,51,Rarely,5,1,6,Very High,Exceeds Expectations,Married,4
+No,Marketing,Senior Manager,92953.63961498698,47,Frequently,5,0,3,High,Minimally Effective,Divorced,29
+No,Research,Director,121936.91937533283,46,Rarely,5,0,3,Very High,Meets Expectations,Single,2
+No,Research,Manager,70500.47805895719,53,Rarely,29,11,3,Low,Exceeds Expectations,Married,7
+No,Product Development,Vice President,186310.06269143926,45,Rarely,10,0,3,High,Exceptional,Divorced,18
+No,IT and Analytics,Director,108057.28390432744,50,Frequently,6,0,3,Very High,Exceeds Expectations,Married,28
+Yes,Finance and Operations,Senior Manager,83054.79795116124,60,Rarely,5,1,6,Medium,Meets Expectations,Single,1
+Yes,Product Development,Manager,70122.98201460329,59,Frequently,2,1,6,High,Minimally Effective,Divorced,6
+No,Sales,Senior Manager,93295.87561869923,48,Frequently,1,0,7,Very High,Exceeds Expectations,Married,2
+No,Sales,Senior Manager,79926.7203100091,48,Rarely,20,1,3,High,Exceeds Expectations,Married,2
+No,Marketing,Manager,67127.79928897123,50,Rarely,3,0,3,Very High,Exceeds Expectations,Divorced,23
+No,IT and Analytics,Vice President,167435.57659234668,49,None,5,1,3,Very High,Meets Expectations,Married,3
+No,Research,Manager,72789.77417061586,50,Rarely,10,0,1,High,Exceptional,Married,3
+Yes,Product Development,Director,114520.8553682725,62,Rarely,2,1,4,Medium,Minimally Effective,Married,25
+Yes,Sales,Vice President,192393.9741541666,58,Rarely,1,0,5,Very High,Meets Expectations,Single,2
+No,Sales,Director,123562.3709534073,45,None,9,7,3,Low,Exceeds Expectations,Married,22
+No,Research,Vice President,202111.1670893178,53,Rarely,1,0,4,Very High,Exceeds Expectations,Divorced,29
+No,IT and Analytics,Manager,67752.27490850564,48,Rarely,27,15,6,High,Meets Expectations,Married,29
+No,Marketing,Manager,61219.748879452556,48,None,11,6,3,Very High,Meets Expectations,Single,2
+No,Research,Director,105967.4024681292,47,Frequently,18,13,3,Low,Meets Expectations,Married,28
+No,IT and Analytics,Senior Manager,85550.43673340694,54,Rarely,5,0,3,Very High,Meets Expectations,Divorced,2
+No,IT and Analytics,Director,109392.5219675491,54,Rarely,3,0,3,High,Meets Expectations,Married,2
+No,Marketing,Associate,34741.91798465462,46,Rarely,5,4,2,High,Meets Expectations,Single,22
+No,Research,Senior Manager,79851.47352692878,42,Rarely,1,0,3,High,Exceptional,Single,8
+No,Research,Senior Manager,92128.40362994402,47,Rarely,7,5,3,High,Exceeds Expectations,Divorced,2
+No,Research,Senior Manager,92289.57463156195,49,Rarely,3,1,2,Very High,Exceptional,Married,10
+No,IT and Analytics,Senior Manager,86184.85429195405,49,Rarely,13,0,3,Medium,Meets Expectations,Divorced,9
+Yes,Sales,Manager,75975.5909429425,56,Rarely,7,7,3,High,Meets Expectations,Married,15
+Yes,Sales,Manager,77632.02216116372,64,Rarely,4,1,1,Very High,Not Effective,Divorced,10
+No,Sales,Senior Manager,97533.08572249064,46,Rarely,3,1,3,Medium,Exceptional,Single,7
+No,Research,Director,114980.9102132892,46,Rarely,8,0,3,High,Exceptional,Married,16
+Yes,Sales,Manager,74324.68460127394,62,Frequently,1,0,6,High,Exceeds Expectations,Married,20
+Yes,Sales,Director,118948.94682920878,64,Frequently,3,0,3,Low,Meets Expectations,Divorced,23
+No,Research,Manager,73715.23260631094,47,Frequently,2,2,5,High,Meets Expectations,Married,5
+No,Marketing,Director,118700.5409096959,47,None,10,9,3,Very High,Exceeds Expectations,Single,10
+Yes,Research,Manager,71421.1845482078,57,Frequently,2,1,3,High,Minimally Effective,Single,4
+No,IT and Analytics,Senior Manager,90637.58995478161,46,Rarely,9,6,3,Very High,Exceeds Expectations,Married,2
+No,Product Development,Senior Manager,93958.37636580561,45,Rarely,10,7,1,Medium,Exceeds Expectations,Single,18
+No,IT and Analytics,Senior Manager,94534.69783334363,45,None,14,1,3,Very High,Exceeds Expectations,Single,10
+No,IT and Analytics,Director,115408.59885463923,51,Rarely,11,6,6,High,Minimally Effective,Married,1
+No,Marketing,Senior Manager,97943.3051756678,50,Rarely,20,5,2,High,Exceeds Expectations,Single,6
+No,Sales,Manager,76349.44444042693,50,Frequently,8,0,5,High,Meets Expectations,Married,8
+No,Sales,Associate,38184.89507766973,45,Rarely,6,0,3,Very High,Exceeds Expectations,Single,2
+No,Research,Manager,60286.83833511471,50,Rarely,10,5,3,Low,Meets Expectations,Married,24
+No,Product Development,Manager,64367.58173650114,49,Rarely,8,3,3,Medium,Meets Expectations,Married,2
+Yes,Sales,Manager,77295.94146036901,59,Frequently,7,1,4,High,Meets Expectations,Divorced,17
+No,Research,Manager,63745.971496477556,49,Rarely,3,1,7,Very High,Exceeds Expectations,Divorced,19
+No,IT and Analytics,Associate,48280.43755993232,48,Rarely,6,0,3,High,Meets Expectations,Divorced,1
+No,Research,Manager,69766.06611245235,48,Rarely,5,0,1,Very High,Exceptional,Divorced,7
+Yes,Sales,Manager,64353.97594129072,60,Frequently,0,0,5,Medium,Meets Expectations,Single,5
+No,Product Development,Director,123916.59298340559,47,None,1,0,7,Low,Exceptional,Divorced,28
+No,Product Development,Senior Manager,89676.00765208412,45,None,8,0,3,High,Exceeds Expectations,Single,2
+No,Marketing,Senior Manager,87437.78665566236,42,Rarely,0,0,2,High,Exceptional,Divorced,29
+No,Research,Vice President,197333.13063686088,47,Rarely,5,0,3,High,Exceptional,Single,1
+No,Research,Director,125890.67540229023,47,Rarely,10,5,6,Very High,Meets Expectations,Single,21
+Yes,Sales,Director,125695.80557249852,55,Rarely,1,0,6,Very High,Minimally Effective,Single,24
+No,Marketing,Manager,66995.03600223415,50,Rarely,6,1,3,Very High,Minimally Effective,Single,1
+No,Product Development,Senior Manager,80618.50279746308,52,Frequently,2,1,3,High,Exceeds Expectations,Married,18
+No,Research,Manager,70601.52471113061,44,Rarely,18,11,3,Low,Meets Expectations,Married,2
+No,IT and Analytics,Director,124606.34005142456,44,None,9,7,1,Medium,Meets Expectations,Divorced,9
+No,IT and Analytics,Director,113958.50134694399,48,Rarely,10,6,3,Low,Exceeds Expectations,Divorced,6
+Yes,IT and Analytics,Manager,50463.46434706419,64,None,4,1,5,High,Meets Expectations,Married,11
+No,Marketing,Director,122639.96298723415,53,Frequently,2,2,7,Very High,Meets Expectations,Married,24
+No,Research,Senior Manager,77607.37536572815,48,Rarely,1,0,7,High,Exceeds Expectations,Married,10
+No,Research,Director,120496.39555010702,46,Rarely,6,4,3,Medium,Meets Expectations,Married,1
+No,Sales,Senior Manager,90660.73813796896,53,Rarely,31,0,3,High,Meets Expectations,Divorced,18
+No,IT and Analytics,Vice President,200731.919838704,47,Rarely,6,1,1,Very High,Exceptional,Married,23
+No,Marketing,Director,110939.93951225068,46,Rarely,5,1,3,Medium,Exceptional,Married,28
+No,Research,Manager,61524.54222275549,46,Rarely,1,0,3,Medium,Meets Expectations,Married,17
+No,Marketing,Manager,73620.54595428401,50,Frequently,32,10,3,Medium,Exceeds Expectations,Married,3
+No,Research,Senior Manager,91205.3205532075,48,Rarely,7,0,5,High,Exceeds Expectations,Married,13
+Yes,Product Development,Senior Manager,87421.73853046713,58,Frequently,6,1,3,High,Minimally Effective,Married,7
+Yes,Finance and Operations,Associate,38180.82741513745,57,Frequently,1,0,1,Low,Exceptional,Married,12
+No,Research,Senior Manager,90588.47182687717,46,Rarely,6,1,3,Very High,Exceptional,Married,1
+Yes,Research,Senior Manager,88555.41601904179,57,Rarely,3,1,3,Low,Minimally Effective,Divorced,13
+No,Finance and Operations,Director,123652.73249479178,48,Rarely,3,0,2,Very High,Meets Expectations,Single,25
+No,Marketing,Director,112763.53049994356,49,Rarely,7,5,2,Very High,Exceeds Expectations,Divorced,6
+No,Marketing,Director,121154.0522337492,51,Rarely,5,0,2,High,Exceeds Expectations,Divorced,6
+No,IT and Analytics,Associate,34484.247658942215,48,Rarely,3,1,3,High,Exceeds Expectations,Married,2
+No,Research,Director,124953.21977771726,49,Rarely,1,0,3,Medium,Meets Expectations,Single,1
+No,Sales,Senior Manager,93011.73953802008,51,Rarely,10,2,3,Very High,Exceeds Expectations,Married,2
+No,Sales,Senior Manager,82523.64394773972,52,Rarely,1,0,2,Very High,Exceptional,Divorced,6
+No,Research,Director,115994.79523772329,48,Rarely,0,0,3,Low,Meets Expectations,Single,1
+No,Research,Manager,69337.25025322598,50,Frequently,8,4,5,High,Exceptional,Divorced,9
+No,Research,Manager,73047.07757548915,45,Rarely,3,0,1,Low,Meets Expectations,Married,1
+No,Marketing,Senior Manager,83758.98279965651,53,Rarely,2,0,1,High,Exceptional,Single,1
+No,Finance and Operations,Vice President,184025.26517159858,46,Rarely,8,0,4,High,Exceptional,Divorced,14
+Yes,Finance and Operations,Manager,83236.01520051643,58,Rarely,4,0,3,Low,Minimally Effective,Divorced,2
+No,IT and Analytics,Senior Manager,90542.95426737562,46,Rarely,3,1,2,High,Exceeds Expectations,Single,22
+No,Research,Senior Manager,89164.43035621244,51,Rarely,2,0,1,Very High,Meets Expectations,Married,3
+No,Research,Senior Manager,105089.79126966614,51,Rarely,2,2,5,High,Meets Expectations,Married,6
+No,Research,Director,131172.06175545076,47,Rarely,5,1,3,High,Exceptional,Divorced,8
+No,Product Development,Associate,44755.597032328355,45,Rarely,6,0,5,Very High,Meets Expectations,Married,9
+No,IT and Analytics,Senior Manager,86739.1470560273,47,Frequently,1,0,2,High,Exceeds Expectations,Divorced,3
+No,Marketing,Director,127787.43378812184,41,Rarely,14,8,3,Low,Exceptional,Single,1
+No,Research,Vice President,177264.28767321876,48,Rarely,10,8,2,Very High,Exceptional,Married,1
+Yes,Product Development,Manager,80208.77100666263,57,Frequently,1,0,4,Low,Meets Expectations,Married,26
+No,Sales,Director,122505.46193912807,50,Rarely,3,0,2,Very High,Exceeds Expectations,Married,6
+No,Sales,Manager,62310.994711468295,47,Rarely,10,7,4,High,Exceeds Expectations,Married,3
+No,Research,Director,124550.04024892149,49,Rarely,6,1,2,High,Exceptional,Married,3
+No,Finance and Operations,Manager,70951.32606112848,53,Rarely,17,11,2,Very High,Exceeds Expectations,Single,6
+No,Sales,Manager,79199.6070739296,51,Frequently,13,4,3,Very High,Minimally Effective,Divorced,6
+No,IT and Analytics,Manager,64056.37585766977,52,Rarely,9,7,2,Medium,Meets Expectations,Married,19
+No,IT and Analytics,Senior Manager,84359.46122944591,55,Rarely,3,0,5,Medium,Exceptional,Divorced,9
+No,Sales,Senior Manager,89258.96702565365,48,Rarely,4,1,2,Very High,Exceptional,Single,3
+Yes,Finance and Operations,Associate,38511.040561890964,58,Rarely,1,1,5,High,Not Effective,Single,10
+Yes,IT and Analytics,Associate,39628.93439979171,60,Frequently,10,9,3,Low,Minimally Effective,Single,3
+No,Research,Senior Manager,110367.60305035564,42,None,1,0,3,High,Exceptional,Married,3
+No,IT and Analytics,Manager,67667.7389531401,56,Rarely,3,0,5,Low,Exceeds Expectations,Married,4
+No,IT and Analytics,Senior Manager,109736.7674213853,45,Rarely,3,1,2,Medium,Exceeds Expectations,Married,8
+No,Marketing,Senior Manager,86485.05134385252,46,Rarely,7,0,1,Very High,Meets Expectations,Single,7
+No,Marketing,Senior Manager,89959.15932244417,52,Frequently,10,2,3,Very High,Exceeds Expectations,Divorced,1
+No,Marketing,Senior Manager,94210.44977167394,49,Rarely,2,2,3,Medium,Exceptional,Married,2
+No,Sales,Senior Manager,95230.0827687754,46,Frequently,6,0,3,Very High,Meets Expectations,Divorced,3
+No,Research,Associate,43592.784000065425,46,Rarely,1,0,3,Very High,Exceeds Expectations,Single,10
+No,Product Development,Director,124458.3607534525,45,Rarely,20,3,2,High,Exceeds Expectations,Married,28
+No,Sales,Director,122475.9244125442,49,Rarely,8,7,2,Medium,Exceeds Expectations,Single,9
+Yes,Marketing,Associate,39174.213167879476,59,Rarely,2,2,4,High,Minimally Effective,Single,3
+No,IT and Analytics,Senior Manager,93366.3596262681,51,Rarely,20,11,6,High,Minimally Effective,Single,2
+No,Finance and Operations,Vice President,191106.1891260075,51,Rarely,10,0,3,Very High,Meets Expectations,Single,10
+Yes,Marketing,Director,122340.2480495762,57,Frequently,4,1,4,High,Minimally Effective,Married,8
+No,Marketing,Senior Manager,93094.855641895,45,Rarely,9,1,3,Very High,Exceeds Expectations,Single,1
+No,Product Development,Senior Manager,93574.77872392701,44,Rarely,9,0,3,Low,Meets Expectations,Married,1
+No,Product Development,Manager,76165.96590366296,45,Rarely,7,7,2,Very High,Exceeds Expectations,Single,3
+No,Sales,Director,115112.37859854285,51,Rarely,7,1,3,Low,Exceeds Expectations,Single,14
+No,Sales,Manager,60352.686374786594,50,Frequently,18,1,7,Low,Exceeds Expectations,Married,5
+No,Finance and Operations,Vice President,172340.4263364984,46,Rarely,5,1,6,High,Exceeds Expectations,Married,7
+No,IT and Analytics,Associate,41876.676196283326,52,Rarely,21,12,3,Very High,Exceeds Expectations,Divorced,10
+No,Sales,Senior Manager,88017.89085708484,46,Rarely,2,2,7,Low,Exceeds Expectations,Single,16
+No,Research,Senior Manager,96177.8859165738,50,Frequently,9,1,3,Low,Meets Expectations,Divorced,10
+No,Research,Senior Manager,78503.1624393417,47,Rarely,22,2,2,High,Meets Expectations,Married,1
+No,Finance and Operations,Director,108734.68569211806,55,Rarely,2,2,3,Medium,Minimally Effective,Married,8
+Yes,Sales,Associate,41989.60000216613,53,Rarely,7,3,4,Medium,Exceeds Expectations,Single,1
+No,IT and Analytics,Manager,77152.53787409667,49,None,8,0,2,Low,Minimally Effective,Married,8
+No,Finance and Operations,Senior Manager,91779.59414164627,52,Rarely,1,0,2,High,Meets Expectations,Single,1
+No,Research,Manager,71150.95054387543,46,None,5,1,3,High,Meets Expectations,Single,24
+No,IT and Analytics,Senior Manager,77840.10620728845,45,Frequently,22,11,3,High,Meets Expectations,Divorced,3
+No,Marketing,Senior Manager,83281.29485056594,47,Rarely,8,7,3,Very High,Exceeds Expectations,Divorced,27
+No,Sales,Senior Manager,94411.17453640404,48,Rarely,1,0,3,High,Exceeds Expectations,Single,10
+Yes,Product Development,Associate,43108.367388584025,62,Frequently,2,2,6,High,Not Effective,Divorced,19
+No,Marketing,Senior Manager,86695.5676120416,49,Frequently,2,2,3,Very High,Exceptional,Married,15
+No,Marketing,Director,114919.79098301806,47,Rarely,5,4,2,High,Meets Expectations,Single,8
+No,Sales,Senior Manager,93932.34555505236,47,Rarely,4,0,7,Low,Meets Expectations,Married,9
+No,IT and Analytics,Senior Manager,75424.52193273192,50,Rarely,8,3,6,Medium,Meets Expectations,Married,3
+No,Finance and Operations,Associate,37473.12533967736,51,Rarely,10,1,1,Very High,Exceeds Expectations,Married,9
+No,Sales,Director,120022.82367743005,51,Rarely,4,2,3,Very High,Meets Expectations,Single,2
+No,IT and Analytics,Senior Manager,84240.66176760418,47,Rarely,7,0,2,Low,Meets Expectations,Single,7
+No,IT and Analytics,Manager,68786.78702517576,46,Rarely,2,2,3,Medium,Meets Expectations,Divorced,10
+No,Research,Senior Manager,90098.31416325695,45,Rarely,2,2,3,Very High,Exceptional,Single,6
+No,Research,Senior Manager,90020.15060236445,50,None,1,0,5,Low,Exceeds Expectations,Divorced,2
+No,IT and Analytics,Manager,69989.23365096313,46,Frequently,10,4,1,Very High,Meets Expectations,Married,24
+No,IT and Analytics,Director,126057.0485254005,49,Rarely,1,0,1,High,Meets Expectations,Married,2
+No,Research,Director,120444.8591786516,47,Rarely,0,0,3,Low,Exceeds Expectations,Divorced,8
+No,IT and Analytics,Director,129885.40369200797,48,Rarely,34,1,6,Low,Exceptional,Married,3
+Yes,Marketing,Associate,41799.34368501294,60,Rarely,10,7,6,Very High,Exceeds Expectations,Single,1
+No,IT and Analytics,Vice President,177435.37390993466,52,Rarely,6,1,3,Very High,Exceptional,Single,26
+No,IT and Analytics,Senior Manager,92764.63774731435,51,Rarely,8,3,2,High,Meets Expectations,Single,2
+No,Research,Associate,37848.04226330027,49,Rarely,2,0,2,High,Meets Expectations,Single,10
+Yes,IT and Analytics,Director,126220.18262657827,59,Frequently,5,1,3,High,Exceeds Expectations,Single,27
+No,IT and Analytics,Director,117280.67250995128,47,Rarely,6,1,2,Very High,Exceptional,Single,2
+Yes,IT and Analytics,Vice President,163443.8679310088,60,Rarely,5,1,6,Low,Meets Expectations,Married,2
+No,Finance and Operations,Senior Manager,103648.30613162466,45,None,10,0,3,Low,Exceeds Expectations,Single,8
+No,Research,Senior Manager,90011.81067544874,50,None,4,1,3,Very High,Meets Expectations,Married,19
+No,IT and Analytics,Manager,60613.77727672097,54,Frequently,2,2,3,Very High,Exceptional,Divorced,1
+No,Research,Director,117326.6609283282,47,Rarely,8,1,3,High,Exceptional,Married,27
+Yes,Marketing,Manager,80498.08113311349,61,Rarely,4,1,4,Low,Minimally Effective,Single,8
+No,Finance and Operations,Manager,67113.52735849994,52,Rarely,4,1,6,Very High,Exceptional,Single,1
+No,Research,Director,116260.09615858486,52,Rarely,5,1,3,Low,Exceeds Expectations,Divorced,19
+No,Research,Senior Manager,86851.12833483446,51,Frequently,4,1,2,Very High,Minimally Effective,Married,8
+No,Research,Manager,72757.53746773917,48,Rarely,5,4,5,Low,Meets Expectations,Divorced,10
+No,Product Development,Senior Manager,100317.09575728525,50,Frequently,15,4,3,Low,Exceeds Expectations,Single,2
+No,IT and Analytics,Associate,40119.96484134697,51,Rarely,6,1,3,Low,Exceptional,Single,2
+No,IT and Analytics,Manager,70834.69552941287,46,Rarely,3,0,2,Very High,Exceptional,Married,8
+No,IT and Analytics,Associate,45550.18275283144,50,Rarely,2,0,3,High,Meets Expectations,Married,1
+No,Research,Manager,67782.57550394857,45,Frequently,8,3,4,Medium,Exceptional,Married,2
+No,Research,Director,112002.62103111358,51,Rarely,3,1,3,Low,Exceeds Expectations,Married,8
+No,IT and Analytics,Vice President,177634.30697168052,48,Frequently,24,14,3,Very High,Meets Expectations,Divorced,8
+Yes,Sales,Manager,60059.69196537668,63,Rarely,0,0,6,Low,Not Effective,Married,6
+No,Research,Associate,39336.711674382634,49,None,1,0,3,Medium,Exceeds Expectations,Divorced,9
+No,IT and Analytics,Manager,66827.42355800472,51,Rarely,5,1,2,High,Minimally Effective,Married,11
+No,Marketing,Senior Manager,81764.64668823579,48,Rarely,4,0,2,High,Exceeds Expectations,Married,2
+Yes,Product Development,Vice President,195308.77635337383,57,Rarely,1,0,3,Low,Meets Expectations,Married,1
+No,Research,Director,128151.47889695466,54,Rarely,13,3,3,High,Exceptional,Married,7
+Yes,Marketing,Manager,72946.46667698512,60,Rarely,3,0,5,Low,Exceeds Expectations,Single,16
+No,Product Development,Associate,43786.89936817162,48,Rarely,26,3,7,Very High,Meets Expectations,Married,2
+No,Sales,Associate,32305.93976255438,50,Rarely,9,0,2,Medium,Exceeds Expectations,Married,1
+No,Research,Senior Manager,83315.79217927498,51,Rarely,10,0,1,High,Exceptional,Married,23
+Yes,Product Development,Senior Manager,88982.70730800135,59,Rarely,31,13,5,Medium,Not Effective,Single,2
+No,IT and Analytics,Director,116612.27368289334,49,Rarely,2,2,2,High,Meets Expectations,Single,1
+No,IT and Analytics,Senior Manager,90048.95290514643,44,Rarely,4,0,7,Very High,Exceeds Expectations,Married,1
+Yes,Marketing,Associate,42495.19693291783,55,Rarely,2,2,6,High,Exceeds Expectations,Single,2
+No,Research,Senior Manager,85251.8623332901,46,Rarely,5,0,3,Medium,Exceeds Expectations,Married,13
+No,Sales,Manager,71863.51231976599,47,Rarely,14,6,2,High,Meets Expectations,Married,4
+No,Marketing,Senior Manager,92961.21212847823,50,Frequently,1,0,3,High,Exceeds Expectations,Single,16
+No,IT and Analytics,Senior Manager,88096.11560581002,50,Rarely,0,0,2,Very High,Exceptional,Single,2
+No,Research,Vice President,159817.38430317744,45,Rarely,1,0,3,High,Exceeds Expectations,Single,2
+No,IT and Analytics,Director,126902.97013600799,45,Rarely,9,7,2,Medium,Exceptional,Married,29
+No,Marketing,Director,108091.22289705693,49,Frequently,4,1,2,Low,Exceeds Expectations,Divorced,12
+No,Research,Senior Manager,102106.76835069289,53,Frequently,5,1,2,Very High,Exceeds Expectations,Single,16
+Yes,Finance and Operations,Vice President,195292.03570099236,66,Rarely,9,7,6,Very High,Meets Expectations,Married,11
+Yes,IT and Analytics,Associate,45199.04251471511,58,Rarely,9,7,3,Very High,Not Effective,Single,2
+No,Research,Associate,36666.796107916154,53,Rarely,4,1,3,Low,Exceeds Expectations,Married,14
+No,Marketing,Manager,69647.44187120128,52,Rarely,9,0,3,Very High,Exceeds Expectations,Divorced,5
+No,Research,Vice President,196374.73954784422,47,Rarely,8,1,7,High,Meets Expectations,Single,7
+No,Product Development,Manager,69256.52183078788,50,Rarely,8,7,2,Medium,Exceptional,Married,2
+No,Research,Vice President,185627.59511884535,43,Rarely,3,0,3,Very High,Not Effective,Married,3
+Yes,Sales,Senior Manager,79863.74081553804,60,Frequently,8,1,6,High,Exceeds Expectations,Married,5
+No,IT and Analytics,Senior Manager,96677.82089130906,46,None,0,0,3,Very High,Meets Expectations,Married,3
+No,Marketing,Associate,47847.0144200185,45,Rarely,20,4,2,High,Meets Expectations,Married,26
+No,Research,Manager,75111.28388215275,42,Rarely,5,2,2,Medium,Meets Expectations,Single,4
+No,Sales,Associate,40569.84275907828,47,Rarely,4,0,4,Low,Meets Expectations,Single,2
+No,IT and Analytics,Senior Manager,91034.83929563808,49,Rarely,9,0,6,Low,Exceeds Expectations,Divorced,1
+No,IT and Analytics,Director,119922.41863669395,50,Rarely,6,1,2,Low,Meets Expectations,Single,27
+No,Research,Director,130265.72316310761,52,Rarely,18,4,2,Very High,Exceeds Expectations,Married,1
+No,Finance and Operations,Director,121821.56819870743,49,Rarely,5,0,2,Very High,Meets Expectations,Divorced,13
+No,Finance and Operations,Manager,76615.04878881888,49,Frequently,5,0,2,Very High,Exceptional,Divorced,5
+No,Marketing,Senior Manager,96520.40905242349,47,Rarely,5,0,2,Very High,Exceeds Expectations,Married,7
+No,Sales,Manager,61102.24824699336,50,Rarely,5,0,3,Low,Exceeds Expectations,Divorced,9
+No,Finance and Operations,Manager,66428.7669571833,46,Rarely,5,1,3,High,Minimally Effective,Married,8
+No,Product Development,Manager,78311.42950312838,55,Frequently,9,0,5,Very High,Exceeds Expectations,Married,25
+No,Product Development,Senior Manager,86383.93676028216,53,Rarely,1,0,2,High,Meets Expectations,Divorced,16
+No,Marketing,Vice President,155157.56056668638,48,Rarely,5,0,1,Very High,Exceeds Expectations,Divorced,8
+No,Product Development,Manager,73372.22738575336,53,Rarely,2,2,4,Very High,Meets Expectations,Married,1
+No,Sales,Director,122236.24751745303,50,Rarely,3,0,2,Very High,Exceeds Expectations,Married,8
+No,Marketing,Associate,35551.47349177543,45,Frequently,2,2,3,Very High,Meets Expectations,Single,2
+No,Finance and Operations,Director,108613.66685098878,48,Rarely,5,0,2,Low,Exceeds Expectations,Married,8
+No,Marketing,Senior Manager,88669.66381011707,45,Rarely,5,0,2,Low,Exceeds Expectations,Married,3
+No,Marketing,Manager,72476.19876814708,48,Rarely,17,5,2,High,Meets Expectations,Married,9
+Yes,Sales,Director,113101.46200887204,62,Frequently,10,7,6,Medium,Minimally Effective,Divorced,25
+No,Sales,Director,116284.68832588829,51,None,3,0,3,Very High,Exceptional,Divorced,1
+No,Marketing,Director,106660.4188347657,46,Rarely,5,0,3,Low,Meets Expectations,Married,4
+No,Sales,Manager,67503.8609844247,48,Rarely,4,0,2,Low,Meets Expectations,Married,1
+No,Product Development,Senior Manager,98202.05669279434,46,None,5,3,3,Very High,Exceeds Expectations,Married,4
+No,Product Development,Director,119733.12883521819,50,Frequently,10,5,3,Medium,Meets Expectations,Married,5
+No,Product Development,Vice President,175144.44956053753,47,Rarely,2,1,3,Medium,Exceeds Expectations,Married,9
+No,Sales,Senior Manager,90115.70375208225,47,Rarely,5,1,3,Very High,Meets Expectations,Married,3
+No,Product Development,Senior Manager,102234.92386569493,47,Rarely,6,0,3,Very High,Meets Expectations,Married,11
+Yes,Finance and Operations,Director,117529.17191686919,54,Rarely,3,0,2,High,Minimally Effective,Divorced,1
+No,Sales,Associate,45015.04027388155,51,Rarely,2,2,3,Very High,Meets Expectations,Married,8
+No,Product Development,Manager,63576.39993014239,49,Rarely,13,4,2,Medium,Exceeds Expectations,Married,25
+No,Sales,Director,115157.26588338587,55,Frequently,5,0,3,Very High,Exceptional,Married,21
+No,IT and Analytics,Senior Manager,101409.66767212607,49,Rarely,12,3,2,Very High,Exceeds Expectations,Single,23
+No,IT and Analytics,Senior Manager,84540.6755491418,43,Frequently,5,2,3,Very High,Meets Expectations,Married,1
+No,IT and Analytics,Director,124475.98826021078,52,Rarely,7,7,2,Very High,Exceeds Expectations,Married,2
+No,IT and Analytics,Manager,71879.63419859542,48,None,10,0,3,Medium,Meets Expectations,Single,19
+No,Research,Manager,72280.70524418144,56,None,31,14,3,Low,Exceeds Expectations,Divorced,2
+No,IT and Analytics,Manager,63946.420147128185,48,Rarely,5,0,2,Very High,Exceeds Expectations,Married,2
+No,IT and Analytics,Manager,85104.16165502186,48,Rarely,4,0,2,Medium,Meets Expectations,Divorced,3
+Yes,IT and Analytics,Manager,66274.8100318042,58,Rarely,1,0,6,Very High,Minimally Effective,Single,25
+No,IT and Analytics,Senior Manager,88899.35220933179,45,Rarely,4,0,3,Very High,Exceeds Expectations,Divorced,7
+No,Product Development,Senior Manager,77441.898750647,45,Rarely,8,7,3,Low,Meets Expectations,Married,9
+No,IT and Analytics,Manager,65849.71628038152,46,Rarely,4,0,7,Very High,Minimally Effective,Single,5
+Yes,Finance and Operations,Senior Manager,87685.40953736825,58,Frequently,1,0,7,Very High,Meets Expectations,Divorced,2
+No,Research,Manager,70104.8310290897,48,Rarely,1,0,1,Medium,Exceeds Expectations,Divorced,8
+Yes,Sales,Senior Manager,85275.49941394945,57,Rarely,2,0,3,High,Meets Expectations,Single,2
+Yes,Sales,Manager,61911.537700982604,58,Rarely,1,0,6,Very High,Meets Expectations,Single,18
+No,Sales,Manager,83102.30187145823,46,Rarely,16,4,2,Very High,Minimally Effective,Married,14
+No,Research,Senior Manager,95333.63281051384,48,Rarely,3,1,2,Very High,Meets Expectations,Single,2
+Yes,Product Development,Associate,44074.55937542185,58,Rarely,3,0,5,High,Minimally Effective,Married,3
+Yes,Product Development,Vice President,182174.0357252389,58,Rarely,7,1,4,Very High,Minimally Effective,Divorced,2
+No,Sales,Manager,58113.90529230681,44,Rarely,2,2,2,High,Meets Expectations,Divorced,9
+Yes,Finance and Operations,Manager,68818.83945956832,58,Rarely,2,2,3,Low,Minimally Effective,Married,6
+No,Research,Director,122363.542820114,53,Rarely,1,0,3,High,Exceeds Expectations,Single,4
+No,Sales,Director,121194.50478826686,47,Rarely,1,1,5,Medium,Meets Expectations,Divorced,10
+No,IT and Analytics,Manager,67848.69258350135,47,Rarely,5,0,2,High,Exceeds Expectations,Single,14
+No,Marketing,Director,118804.54462705752,45,Rarely,3,0,3,Low,Exceptional,Single,1
+No,Marketing,Manager,77154.03904684466,45,Rarely,6,0,2,Medium,Meets Expectations,Divorced,5
+No,Product Development,Senior Manager,102844.59522136535,46,Rarely,7,5,2,High,Exceptional,Married,7
+No,Sales,Associate,35611.60515774406,49,Rarely,10,0,3,Very High,Meets Expectations,Married,21
+No,IT and Analytics,Associate,43802.24762873843,56,Rarely,26,1,3,Medium,Meets Expectations,Married,8
+No,IT and Analytics,Manager,72646.39251385612,47,Rarely,0,0,7,High,Exceeds Expectations,Married,20
+No,Research,Associate,45352.60032185241,48,None,9,0,4,High,Meets Expectations,Married,20
+No,Research,Senior Manager,90051.9292027865,49,Rarely,6,0,7,Very High,Exceeds Expectations,Single,7
+No,Finance and Operations,Associate,41768.736559118406,50,Rarely,15,5,3,Low,Meets Expectations,Married,1
+No,Sales,Manager,77057.77565224434,49,None,3,0,3,Medium,Exceeds Expectations,Married,1
+Yes,Finance and Operations,Associate,45208.55391976975,61,Rarely,1,0,6,Medium,Minimally Effective,Married,19
+No,Research,Senior Manager,82928.07726047418,49,Rarely,1,0,2,Medium,Exceeds Expectations,Divorced,10
+No,Research,Director,132217.27094001858,50,Frequently,7,0,3,Low,Minimally Effective,Single,1
+No,IT and Analytics,Manager,73772.4846164849,47,Rarely,18,2,3,Low,Exceeds Expectations,Single,6
+No,Research,Senior Manager,97871.31715401665,43,Rarely,11,3,7,High,Exceptional,Single,2
+Yes,IT and Analytics,Manager,74310.05788984743,54,Rarely,1,0,2,Medium,Meets Expectations,Single,21
+Yes,Sales,Manager,73095.33760919247,58,Rarely,1,0,4,Low,Minimally Effective,Single,4
+No,Research,Director,114905.70628492787,44,Rarely,9,8,2,Very High,Exceptional,Married,12
+No,Marketing,Manager,74386.67164004377,50,Frequently,1,0,5,Medium,Meets Expectations,Divorced,9
+No,Sales,Director,115933.67692982385,48,Rarely,8,6,2,Low,Meets Expectations,Married,3
+Yes,Sales,Vice President,195910.44416778834,58,Rarely,16,3,5,Very High,Exceeds Expectations,Married,3
+No,Research,Manager,70996.22614251083,45,Rarely,5,1,3,Very High,Exceptional,Single,1
+Yes,Sales,Associate,30488.149700657024,61,Rarely,14,11,5,High,Exceeds Expectations,Married,1
+No,Marketing,Director,125439.34838589127,46,None,9,0,5,Medium,Exceeds Expectations,Married,4
+No,Research,Senior Manager,92255.40829009288,46,Frequently,3,0,7,Very High,Meets Expectations,Married,20
+No,Research,Vice President,182502.96836407713,45,Rarely,5,1,2,High,Exceptional,Married,18
+No,Research,Senior Manager,87487.45816707853,52,Rarely,9,7,3,Very High,Exceeds Expectations,Married,1
+Yes,Sales,Director,110046.23571963738,55,Rarely,1,0,6,High,Minimally Effective,Single,2
+No,Sales,Director,124476.27646642424,47,Rarely,17,15,2,High,Exceeds Expectations,Divorced,2
+No,Research,Director,120130.94813472149,48,Rarely,8,7,7,High,Meets Expectations,Divorced,8
+No,Marketing,Director,117876.62455032334,51,None,5,1,3,Very High,Meets Expectations,Single,10
+No,Research,Senior Manager,97409.67530694666,45,Rarely,10,0,3,Very High,Not Effective,Divorced,3
+No,Product Development,Senior Manager,97894.03586691839,48,Rarely,8,0,2,High,Meets Expectations,Single,2
+Yes,IT and Analytics,Manager,55552.9836990821,64,None,1,0,5,Medium,Meets Expectations,Single,24
+No,Product Development,Manager,76099.07868825772,48,Frequently,19,2,1,High,Meets Expectations,Divorced,16
+No,IT and Analytics,Senior Manager,88521.83774948878,47,None,7,0,1,Very High,Meets Expectations,Divorced,8
+Yes,Marketing,Manager,70775.11169001317,52,None,3,1,7,Low,Meets Expectations,Single,9
+No,Sales,Manager,76544.47601879142,47,None,10,6,2,High,Minimally Effective,Single,17
+Yes,Sales,Director,129827.00626235639,56,Rarely,0,0,5,Low,Meets Expectations,Single,10
+No,Finance and Operations,Associate,37115.287215309305,51,Rarely,3,0,3,Very High,Meets Expectations,Single,13
+No,Product Development,Manager,69012.53608786101,45,Rarely,5,0,7,Very High,Exceeds Expectations,Divorced,1
+No,IT and Analytics,Vice President,194843.5931805753,48,Rarely,5,1,2,Very High,Meets Expectations,Divorced,1
+No,IT and Analytics,Vice President,173340.77210819782,51,Frequently,6,1,2,Medium,Exceeds Expectations,Married,1
+No,Sales,Manager,62410.25060288521,47,Frequently,18,0,3,High,Exceeds Expectations,Divorced,9
+No,IT and Analytics,Director,124630.81791626565,48,Rarely,2,2,2,Medium,Exceeds Expectations,Married,16
+No,Marketing,Associate,38731.83292027365,50,None,9,0,2,Low,Meets Expectations,Married,23
+No,Finance and Operations,Vice President,188472.49736050324,54,Rarely,9,0,5,Very High,Exceptional,Single,4
+Yes,Sales,Associate,35885.88888992658,59,Rarely,5,0,6,High,Meets Expectations,Married,22
+No,Research,Manager,69361.85675765846,43,Rarely,12,1,2,High,Meets Expectations,Married,24
+No,Research,Vice President,169965.69679945926,48,Frequently,2,0,2,High,Exceptional,Married,10
+No,Sales,Senior Manager,87385.0565372539,50,Rarely,8,0,6,High,Minimally Effective,Divorced,7
+No,Research,Senior Manager,89518.67666564237,45,Rarely,4,3,3,High,Exceeds Expectations,Divorced,17
+Yes,Marketing,Manager,75254.66430180457,57,Rarely,4,0,2,Medium,Minimally Effective,Divorced,14
+No,Finance and Operations,Senior Manager,93196.16816193255,47,Frequently,4,0,3,Low,Exceptional,Married,1
+No,Product Development,Director,119166.33507168424,50,None,0,0,5,Very High,Exceptional,Single,5
+No,IT and Analytics,Senior Manager,87393.4582436388,46,Rarely,10,0,2,High,Exceptional,Married,17
+No,Research,Senior Manager,80482.28078538741,55,Rarely,16,10,6,High,Meets Expectations,Divorced,25
+No,Sales,Senior Manager,83220.37435893278,47,Rarely,8,1,2,Low,Exceptional,Married,8
+Yes,Sales,Manager,53478.811291568956,55,Rarely,1,0,4,Low,Meets Expectations,Single,11
+Yes,Finance and Operations,Manager,67926.81640028524,58,Frequently,3,1,3,Medium,Minimally Effective,Single,5
+No,Finance and Operations,Senior Manager,90858.4381881269,51,Rarely,8,1,3,Very High,Meets Expectations,Married,2
+No,Finance and Operations,Director,124622.2855183572,47,Rarely,4,1,3,Low,Exceptional,Married,8
+No,Sales,Senior Manager,89704.25715644869,51,Rarely,2,2,3,High,Exceeds Expectations,Single,6
+No,IT and Analytics,Senior Manager,85078.98256011562,51,Rarely,15,4,2,High,Exceptional,Single,4
+No,Marketing,Senior Manager,94391.90777084747,49,Rarely,2,2,1,High,Exceptional,Single,7
+No,Sales,Manager,70513.31833801181,52,Rarely,21,11,2,Very High,Meets Expectations,Married,1
+No,Research,Manager,66936.34010774751,52,Rarely,3,2,6,Very High,Exceptional,Married,2
+No,Sales,Senior Manager,71760.59523180255,49,Rarely,3,1,4,Very High,Meets Expectations,Divorced,10
+No,Research,Manager,70254.43036441365,51,Rarely,1,0,5,High,Exceeds Expectations,Married,5
+No,Research,Senior Manager,91261.65623448476,43,Rarely,1,0,1,Very High,Meets Expectations,Married,9
+No,IT and Analytics,Director,124089.87893535101,50,Rarely,5,4,1,Very High,Meets Expectations,Single,2
+Yes,Product Development,Senior Manager,82548.83679724204,58,Rarely,1,0,5,Medium,Minimally Effective,Married,11
+No,Research,Vice President,159116.86778215726,47,Frequently,8,6,3,Medium,Exceeds Expectations,Married,18
+No,Marketing,Senior Manager,100190.36963299662,48,None,21,5,5,High,Exceeds Expectations,Divorced,7
+No,Sales,Senior Manager,97552.38708983418,47,Rarely,1,0,2,Very High,Exceptional,Single,3
+Yes,Sales,Associate,41816.966889688534,65,None,2,2,4,Low,Meets Expectations,Single,29
+Yes,Sales,Associate,41590.017189294675,62,Rarely,32,6,6,Very High,Meets Expectations,Married,2
+No,IT and Analytics,Associate,39684.892677783864,46,Rarely,12,11,7,Very High,Minimally Effective,Married,28
+No,IT and Analytics,Director,118522.42145957418,51,None,18,0,3,High,Meets Expectations,Married,1
+Yes,IT and Analytics,Associate,36940.0456514112,54,Rarely,17,15,3,Low,Meets Expectations,Single,16
+No,Research,Manager,74530.34531581527,47,Frequently,21,2,3,Low,Meets Expectations,Single,22
+No,IT and Analytics,Senior Manager,99460.8003330115,42,None,2,2,3,Very High,Exceeds Expectations,Single,8
+No,IT and Analytics,Associate,38327.52895419857,47,Rarely,9,1,3,Very High,Exceeds Expectations,Married,11
+No,IT and Analytics,Senior Manager,87183.947219085,47,None,8,7,2,High,Exceeds Expectations,Single,29
+No,Marketing,Director,123338.97269296556,44,Rarely,15,0,2,Very High,Exceeds Expectations,Divorced,1
+No,Marketing,Associate,30559.081175359213,48,Rarely,6,0,2,Very High,Meets Expectations,Married,1
+No,Marketing,Manager,78627.98725496797,47,Rarely,6,0,3,Medium,Exceeds Expectations,Single,24
+No,Finance and Operations,Senior Manager,90558.46724205484,49,Frequently,15,6,2,Medium,Exceptional,Married,2
+Yes,Product Development,Manager,66158.82639942248,60,Rarely,1,0,5,High,Not Effective,Divorced,15
+Yes,Marketing,Associate,43033.57570937867,59,Frequently,3,1,4,Low,Minimally Effective,Married,2
+No,Research,Manager,84030.76985011762,50,Rarely,1,0,3,High,Meets Expectations,Married,10
+No,IT and Analytics,Vice President,158072.38771391372,50,Rarely,1,0,3,Medium,Meets Expectations,Married,10
+No,Research,Senior Manager,93091.9863821925,43,Frequently,2,2,2,High,Exceeds Expectations,Married,3
+No,IT and Analytics,Associate,38747.090172020675,54,Rarely,8,7,5,High,Exceptional,Married,2
+No,Finance and Operations,Vice President,189419.49248133885,54,Rarely,4,0,1,Medium,Exceptional,Single,3
+No,IT and Analytics,Manager,67413.60476133198,44,Rarely,7,7,3,Low,Exceptional,Married,26
+No,Research,Senior Manager,79892.87216185682,45,Frequently,5,1,3,High,Meets Expectations,Divorced,1
+No,Product Development,Senior Manager,85416.21203987456,49,Rarely,2,2,2,Very High,Exceeds Expectations,Divorced,1
+No,Product Development,Associate,42117.40459249103,42,Rarely,9,7,3,High,Meets Expectations,Married,2
+No,Marketing,Senior Manager,86200.76492309877,49,Frequently,5,0,3,High,Minimally Effective,Married,9
+No,Sales,Senior Manager,88844.9690930856,51,Rarely,14,7,3,Very High,Meets Expectations,Single,12
+No,Product Development,Associate,32443.79055830616,48,None,9,6,3,Low,Exceeds Expectations,Single,2
+No,IT and Analytics,Senior Manager,91794.43161976182,44,Rarely,1,0,2,Very High,Meets Expectations,Divorced,25
+Yes,IT and Analytics,Director,122231.86364031091,51,Frequently,2,0,6,Very High,Exceeds Expectations,Single,9
+Yes,Sales,Associate,41158.10483803112,53,Rarely,1,1,4,Low,Exceeds Expectations,Single,10
+No,Research,Senior Manager,96100.24058718272,41,Rarely,16,1,3,Low,Exceeds Expectations,Divorced,8
+Yes,Product Development,Manager,63266.08765225355,62,Rarely,10,2,7,High,Meets Expectations,Married,4
+Yes,Marketing,Manager,77254.98027043644,60,None,10,1,6,Low,Minimally Effective,Single,24
+No,IT and Analytics,Director,116179.459114286,57,Rarely,5,1,3,Low,Exceeds Expectations,Married,1
+No,Product Development,Senior Manager,76947.76837211638,44,Rarely,6,0,2,Low,Meets Expectations,Married,20
+No,IT and Analytics,Manager,71339.20229598654,44,Rarely,10,0,2,High,Meets Expectations,Married,7
+No,IT and Analytics,Senior Manager,86440.24524935585,47,Rarely,19,1,2,High,Not Effective,Married,17
+No,Marketing,Manager,72318.66373522015,49,Rarely,11,11,5,Very High,Exceeds Expectations,Married,20
+No,Product Development,Vice President,172375.07500062216,43,None,3,1,7,High,Exceeds Expectations,Married,8
+No,Product Development,Senior Manager,97362.99079478509,46,Frequently,3,1,3,Medium,Exceeds Expectations,Married,2
+No,IT and Analytics,Associate,47043.43226096527,50,Rarely,8,1,1,High,Meets Expectations,Single,10
+Yes,Marketing,Manager,54574.55310261817,58,Rarely,20,3,7,Low,Meets Expectations,Married,1
+No,IT and Analytics,Director,131676.48497360788,53,Rarely,3,1,3,Very High,Meets Expectations,Divorced,5
+Yes,Sales,Manager,75662.3666599502,62,Rarely,8,4,5,Low,Exceeds Expectations,Single,4
+Yes,Product Development,Manager,68143.46027400525,60,Frequently,13,3,4,High,Exceeds Expectations,Single,29
+No,Sales,Vice President,186068.59774066196,45,Rarely,4,2,3,High,Exceeds Expectations,Divorced,15
+No,Finance and Operations,Vice President,212134.70054997964,49,Frequently,6,0,3,Very High,Exceptional,Single,3
+No,Finance and Operations,Vice President,187688.62764088134,52,Rarely,1,0,3,Very High,Meets Expectations,Divorced,10
+Yes,Product Development,Associate,45429.8784360311,56,Rarely,7,5,7,Very High,Meets Expectations,Married,4
+Yes,IT and Analytics,Manager,58778.40250418709,60,Rarely,1,0,6,High,Minimally Effective,Divorced,21
+Yes,Product Development,Associate,36998.46786440443,58,Rarely,2,2,6,Medium,Minimally Effective,Single,25
+No,Research,Vice President,194426.01384987924,49,Rarely,22,13,2,Low,Exceptional,Married,2
+Yes,Marketing,Director,127946.08670486243,59,Frequently,1,0,5,Medium,Meets Expectations,Divorced,1
+Yes,IT and Analytics,Director,112456.08886881133,55,Frequently,0,0,3,High,Meets Expectations,Single,1
+No,Product Development,Manager,72164.20521382726,51,Frequently,3,0,3,Medium,Exceeds Expectations,Married,7
+No,IT and Analytics,Senior Manager,76200.14738803334,51,None,0,0,2,Very High,Exceptional,Married,3
+No,IT and Analytics,Associate,40398.12291360176,50,None,5,2,2,Very High,Exceeds Expectations,Single,1
+No,Finance and Operations,Manager,76006.46034055996,49,None,15,4,1,High,Meets Expectations,Married,9
+No,Marketing,Vice President,184073.75062373068,48,Rarely,8,4,2,Medium,Exceptional,Single,7
+No,IT and Analytics,Vice President,187473.74246766005,50,Rarely,8,2,3,High,Exceptional,Divorced,10
+No,IT and Analytics,Manager,86804.41733634747,46,Rarely,7,1,2,Very High,Meets Expectations,Divorced,28
+No,Research,Manager,71867.69238969739,50,Rarely,9,1,2,Medium,Minimally Effective,Divorced,3
+No,Research,Associate,38148.63349511143,48,Rarely,12,4,3,High,Exceptional,Married,3
+No,Marketing,Director,121528.41677136063,47,Rarely,1,0,3,Medium,Meets Expectations,Single,2
+No,Research,Manager,68399.51824286023,49,Frequently,8,0,2,Low,Meets Expectations,Married,27
+Yes,Product Development,Associate,40374.924784050476,59,Frequently,18,11,3,Very High,Meets Expectations,Divorced,2
+No,Sales,Director,109312.1198530406,48,Rarely,20,4,3,High,Exceeds Expectations,Single,14
+No,Product Development,Manager,75314.86536229154,44,Rarely,2,2,3,Medium,Exceeds Expectations,Single,1
+No,IT and Analytics,Vice President,166164.9753902415,54,None,5,0,4,Medium,Exceeds Expectations,Single,9
+No,IT and Analytics,Senior Manager,94029.56476714589,46,None,11,0,7,Very High,Exceeds Expectations,Single,18
+No,Research,Manager,73535.59515378093,49,Frequently,2,2,2,Very High,Exceptional,Married,20
+No,IT and Analytics,Senior Manager,87038.19370265352,53,Rarely,5,0,3,Medium,Exceeds Expectations,Married,2
+No,Product Development,Senior Manager,93006.3019070742,49,Frequently,5,0,3,Very High,Exceeds Expectations,Divorced,11
+No,IT and Analytics,Manager,69148.34378375132,46,Rarely,9,2,1,Medium,Exceeds Expectations,Married,8
+No,IT and Analytics,Senior Manager,81751.062155473,50,Frequently,3,0,1,High,Exceptional,Single,2
+No,IT and Analytics,Senior Manager,86836.32758507952,46,Frequently,7,1,4,Medium,Not Effective,Divorced,10
+No,Research,Director,114792.15345409387,45,Rarely,1,0,2,Very High,Exceptional,Single,29
+No,Research,Vice President,189818.06501684946,46,Rarely,10,1,1,Very High,Exceptional,Married,8
+No,IT and Analytics,Senior Manager,88930.10775928738,50,Rarely,7,5,6,High,Meets Expectations,Married,1
+No,Research,Vice President,186095.14875479328,45,Frequently,3,0,1,High,Meets Expectations,Divorced,6
+Yes,Marketing,Manager,64286.2522903692,60,None,0,0,5,High,Exceeds Expectations,Single,8
+Yes,Product Development,Associate,37916.22962970469,57,Rarely,5,0,4,Low,Meets Expectations,Single,9
+No,Research,Director,117051.38920804177,40,Rarely,1,0,3,Very High,Exceeds Expectations,Married,12
+Yes,IT and Analytics,Vice President,169694.93684079958,58,Frequently,2,2,4,High,Meets Expectations,Married,15
+No,Research,Director,121791.54554330528,49,Rarely,6,1,3,Very High,Exceeds Expectations,Divorced,25
+No,Research,Manager,65314.27773847499,48,Rarely,4,2,1,High,Exceeds Expectations,Married,6
+No,Sales,Senior Manager,82608.49017934242,48,Rarely,6,1,3,High,Meets Expectations,Married,9
+No,IT and Analytics,Vice President,164068.187356296,47,Rarely,5,1,3,High,Exceeds Expectations,Single,8
+Yes,Sales,Associate,35879.23350557546,61,Rarely,11,3,5,Low,Minimally Effective,Married,23
+No,IT and Analytics,Associate,38033.28413552117,55,Frequently,18,2,5,High,Meets Expectations,Single,9
+Yes,Finance and Operations,Senior Manager,96908.91604054258,64,Frequently,21,13,6,Low,Meets Expectations,Single,12
+No,IT and Analytics,Associate,37852.21423611548,46,Rarely,6,1,1,Low,Exceeds Expectations,Single,4
+No,IT and Analytics,Associate,37087.0500142112,49,Rarely,8,1,3,High,Meets Expectations,Married,1
+No,IT and Analytics,Senior Manager,97504.49983917625,49,Rarely,4,1,3,Medium,Meets Expectations,Single,24
+Yes,Finance and Operations,Manager,73594.59855178719,55,Rarely,1,0,3,Very High,Meets Expectations,Married,12
+No,Marketing,Director,123258.39201422567,53,Rarely,8,0,1,Very High,Meets Expectations,Married,3
+No,Research,Director,125315.457565321,49,Rarely,10,1,1,High,Minimally Effective,Married,10
+No,Research,Director,117887.85463532535,46,Frequently,1,0,3,Very High,Exceptional,Married,26
+No,Sales,Manager,63295.21958334935,49,Rarely,7,6,3,Medium,Exceeds Expectations,Divorced,2
+No,Sales,Director,119981.23879437111,48,Frequently,13,4,3,Low,Minimally Effective,Single,1
+No,Research,Director,107741.60346755681,47,Frequently,2,2,3,Very High,Meets Expectations,Married,4
+Yes,IT and Analytics,Manager,76142.83709465108,60,Rarely,4,1,5,High,Minimally Effective,Single,9
+No,IT and Analytics,Senior Manager,88835.99581364448,49,None,1,0,2,Low,Meets Expectations,Divorced,2
+No,Marketing,Senior Manager,96752.65514432768,46,Rarely,5,4,2,Low,Exceeds Expectations,Divorced,4
+No,Sales,Director,125228.83781340739,48,Rarely,10,0,3,Very High,Exceptional,Married,6
+No,Research,Director,120994.87407524275,52,Rarely,1,0,4,Low,Exceeds Expectations,Single,9
+No,Marketing,Senior Manager,89779.09659735188,51,Rarely,3,0,7,High,Exceptional,Married,7
+No,Product Development,Director,122812.30029565316,50,Rarely,14,3,2,Very High,Meets Expectations,Married,1
+No,Research,Senior Manager,73027.0890845913,50,Rarely,2,1,5,High,Exceeds Expectations,Single,3
+Yes,Sales,Senior Manager,97635.11023397687,59,Rarely,6,0,5,High,Meets Expectations,Single,10
+No,Marketing,Senior Manager,88196.7609856393,48,Rarely,7,4,3,High,Exceeds Expectations,Divorced,7
+No,Marketing,Manager,74603.52130991654,48,Rarely,5,1,3,Very High,Exceeds Expectations,Married,15
+Yes,Sales,Manager,66804.38182244138,58,Frequently,0,0,6,Very High,Meets Expectations,Married,3
+No,Research,Manager,72711.20205247379,51,Rarely,26,15,2,Low,Exceeds Expectations,Married,2
+No,Product Development,Senior Manager,94089.24424743127,48,None,0,0,3,High,Meets Expectations,Single,17
+No,Sales,Senior Manager,86401.67884485536,51,Rarely,5,1,2,High,Exceptional,Married,2
+Yes,Sales,Manager,67087.98280452746,56,None,1,0,3,Low,Minimally Effective,Divorced,5
+No,Sales,Senior Manager,103612.78304819846,50,Rarely,4,0,2,Low,Exceptional,Divorced,29
+No,Sales,Senior Manager,91795.18929074405,49,Frequently,0,0,3,Medium,Exceeds Expectations,Married,2
+No,Product Development,Senior Manager,103345.5955663416,52,Frequently,2,2,3,Low,Meets Expectations,Married,2
+No,Research,Senior Manager,83724.36835550406,50,Rarely,6,3,5,Low,Minimally Effective,Married,19
+No,IT and Analytics,Associate,42698.811972869495,49,Rarely,4,0,3,Medium,Exceeds Expectations,Married,15
+No,Research,Senior Manager,89312.88026145384,51,Rarely,7,1,3,Low,Meets Expectations,Married,17
+Yes,Product Development,Associate,39596.157928181485,59,Rarely,1,0,6,Medium,Minimally Effective,Married,17
+No,Sales,Senior Manager,90648.94791158703,42,Frequently,10,0,2,High,Meets Expectations,Married,25
+No,Marketing,Director,124484.7379578382,50,Rarely,7,1,3,High,Meets Expectations,Divorced,6
+No,IT and Analytics,Senior Manager,81186.97635963521,41,Rarely,10,8,2,High,Minimally Effective,Divorced,7
+No,Finance and Operations,Manager,77671.45315997407,50,Rarely,20,13,2,Very High,Exceeds Expectations,Single,29
+No,Research,Senior Manager,87879.836289276,48,Rarely,2,2,4,Very High,Exceptional,Single,21
+No,IT and Analytics,Senior Manager,104676.82876455488,49,Rarely,6,1,2,Very High,Exceptional,Divorced,2
+No,IT and Analytics,Vice President,175320.80609413597,40,None,4,0,3,Low,Exceeds Expectations,Married,2
+No,Research,Vice President,163287.76050925007,50,Rarely,11,1,3,Very High,Exceptional,Divorced,7
+No,IT and Analytics,Manager,78328.77359130478,52,Frequently,2,2,3,Medium,Exceeds Expectations,Married,13
+No,Research,Vice President,184144.55800143874,47,Frequently,8,0,3,High,Meets Expectations,Single,2
+No,Marketing,Associate,37945.30930074681,46,Rarely,7,7,4,Low,Exceeds Expectations,Divorced,1
+No,Research,Senior Manager,83503.33559785628,49,Rarely,14,4,2,Very High,Exceptional,Married,9
+No,Research,Manager,75927.01175477346,44,Rarely,5,1,5,Medium,Meets Expectations,Divorced,10
+No,Finance and Operations,Associate,42845.59026794154,45,Rarely,4,1,4,Very High,Minimally Effective,Single,10
+No,Marketing,Director,113809.12182601717,49,Rarely,11,5,3,Medium,Exceeds Expectations,Married,1
+No,Research,Associate,37438.70050270344,55,Frequently,1,0,2,Low,Exceptional,Married,26
+No,IT and Analytics,Manager,72010.57844231337,48,None,13,4,6,Very High,Exceptional,Married,8
+No,Finance and Operations,Director,124657.6511455047,50,Rarely,9,6,3,Low,Exceeds Expectations,Married,14
+No,IT and Analytics,Associate,38358.868116458565,50,Frequently,5,1,2,High,Meets Expectations,Divorced,1
+No,IT and Analytics,Associate,39421.9604954672,48,Rarely,10,7,1,Very High,Exceeds Expectations,Married,2
+Yes,Research,Director,115740.98192826808,57,None,1,0,5,Medium,Meets Expectations,Single,10
+No,IT and Analytics,Senior Manager,82979.97147400504,49,Rarely,3,1,3,Very High,Exceptional,Divorced,1
+No,Sales,Associate,47547.807110842776,53,Rarely,10,0,3,Very High,Exceeds Expectations,Married,3
+No,Research,Director,122052.34019255548,49,Rarely,6,0,1,Low,Exceptional,Married,11
+No,Research,Director,114932.9095432388,49,Rarely,10,1,3,Low,Meets Expectations,Single,24
+No,IT and Analytics,Manager,68377.59173915342,45,Rarely,6,0,3,Very High,Exceeds Expectations,Single,3
+No,IT and Analytics,Manager,69200.87485830684,45,Rarely,8,0,6,Very High,Not Effective,Married,3
+No,Sales,Associate,40671.05558515654,42,Rarely,1,0,3,High,Exceptional,Married,4
+No,IT and Analytics,Senior Manager,88949.17247411006,44,Frequently,11,0,3,Medium,Exceeds Expectations,Married,3
+No,Marketing,Director,120478.64671247709,43,Rarely,1,0,3,Medium,Exceeds Expectations,Single,2
+No,IT and Analytics,Senior Manager,98240.16562215691,55,Rarely,5,0,7,High,Meets Expectations,Divorced,4
+No,Research,Vice President,203528.86846665893,49,Rarely,6,1,2,Very High,Exceeds Expectations,Divorced,7
+No,Research,Senior Manager,103673.64411289757,51,Rarely,1,0,3,Very High,Meets Expectations,Single,1
+No,Marketing,Director,119819.98508799862,49,Rarely,7,1,1,Very High,Exceeds Expectations,Divorced,1
+No,IT and Analytics,Senior Manager,101127.41324381753,47,Rarely,1,0,3,High,Exceeds Expectations,Married,20
+No,Marketing,Vice President,184829.7202525099,52,Rarely,22,3,6,Medium,Meets Expectations,Married,5
+No,Sales,Director,118212.71445800051,46,Rarely,9,0,7,High,Exceptional,Divorced,10
+No,IT and Analytics,Associate,41649.35587064443,52,Rarely,1,0,2,Very High,Exceptional,Single,25
+No,IT and Analytics,Senior Manager,87055.49634753575,46,Rarely,1,0,1,High,Exceeds Expectations,Married,1
+Yes,Marketing,Manager,70860.08229429612,61,Frequently,1,1,3,Very High,Exceeds Expectations,Single,24
+No,Finance and Operations,Director,123886.81449290628,49,Rarely,8,2,6,Very High,Exceptional,Single,4
+Yes,Sales,Manager,76168.75017927508,62,Rarely,24,1,6,Medium,Exceeds Expectations,Single,2
+No,Marketing,Manager,70482.67949049015,52,None,33,15,3,Medium,Meets Expectations,Divorced,8
+Yes,Product Development,Director,117647.97879474211,54,Frequently,2,2,6,High,Minimally Effective,Single,10
+No,Marketing,Manager,71526.41357079921,45,Rarely,11,0,7,Medium,Exceeds Expectations,Married,4
+No,Product Development,Associate,35864.83291967503,49,Rarely,3,0,3,Low,Exceeds Expectations,Single,2
+No,Research,Director,120412.75196687107,50,Frequently,29,11,3,Medium,Meets Expectations,Divorced,9
+No,IT and Analytics,Senior Manager,79345.00109094048,47,Rarely,9,5,3,Very High,Meets Expectations,Single,18
+No,Finance and Operations,Manager,64410.56864100834,47,Frequently,11,5,3,Medium,Exceeds Expectations,Divorced,19
+No,Marketing,Senior Manager,98882.29113264837,50,Frequently,4,0,1,High,Exceptional,Single,1
+No,Research,Manager,69385.89825632093,49,Rarely,25,14,2,Low,Exceeds Expectations,Divorced,4
+No,IT and Analytics,Director,114556.23807983166,49,Frequently,10,1,2,Medium,Exceeds Expectations,Married,11
+No,IT and Analytics,Senior Manager,93650.5444343326,45,Rarely,3,2,2,High,Meets Expectations,Married,6
+No,Research,Manager,73193.28751099609,49,Rarely,1,0,1,Medium,Exceptional,Married,7
+No,Marketing,Senior Manager,79420.30638259409,50,Rarely,21,15,3,Very High,Exceptional,Single,4
+No,IT and Analytics,Senior Manager,92345.4512073268,43,Rarely,16,5,3,Medium,Exceptional,Single,2
+Yes,Marketing,Manager,73137.99217007385,62,Rarely,10,0,6,Very High,Meets Expectations,Married,15
+No,IT and Analytics,Senior Manager,91795.0685633459,49,Frequently,2,2,3,Very High,Exceptional,Married,2
+No,IT and Analytics,Associate,41283.47897729197,46,Frequently,7,7,2,High,Meets Expectations,Single,6
+No,Finance and Operations,Manager,68482.16402601487,51,None,8,1,1,High,Meets Expectations,Single,9
+Yes,Sales,Associate,42305.498955772506,61,Rarely,7,7,5,High,Exceeds Expectations,Divorced,7
+No,Finance and Operations,Senior Manager,92073.66799548126,49,Rarely,3,1,4,Low,Exceptional,Single,1
+No,Sales,Director,131367.78143326694,47,Rarely,2,2,3,Medium,Meets Expectations,Single,1
+No,Research,Vice President,171174.54809049095,53,Rarely,10,0,3,Very High,Exceeds Expectations,Married,8
+No,IT and Analytics,Senior Manager,103786.59477946852,52,Frequently,0,0,3,Medium,Exceeds Expectations,Single,25
+No,Research,Vice President,172669.32896632235,44,Rarely,19,15,1,Medium,Exceeds Expectations,Divorced,13
+No,IT and Analytics,Director,113657.73814580291,50,Rarely,2,2,3,High,Meets Expectations,Divorced,23
+Yes,Marketing,Associate,39303.924317327925,63,Rarely,10,1,4,High,Exceeds Expectations,Married,7
+Yes,Sales,Manager,69436.93289973911,60,Rarely,5,0,5,Low,Minimally Effective,Single,23
+No,Finance and Operations,Director,124516.2276309841,49,Rarely,9,6,5,Very High,Exceeds Expectations,Married,6
+No,Product Development,Director,104820.34444665012,45,Rarely,7,1,5,High,Meets Expectations,Married,10
+No,Marketing,Manager,65444.37217057736,47,Rarely,7,5,3,Low,Meets Expectations,Single,1
+No,Product Development,Senior Manager,77160.8520807704,48,None,9,7,2,Very High,Minimally Effective,Married,1
+No,IT and Analytics,Senior Manager,82237.25335940177,53,Rarely,3,1,1,Low,Meets Expectations,Married,28
+Yes,Marketing,Manager,68543.16288576864,52,Rarely,5,1,7,Medium,Meets Expectations,Single,25
+Yes,Marketing,Manager,59397.66943619513,58,Rarely,8,7,4,Medium,Exceeds Expectations,Single,5
+No,Sales,Senior Manager,98432.48756312406,46,Rarely,9,0,3,Low,Exceptional,Married,17
+No,IT and Analytics,Senior Manager,83314.37792953651,50,Rarely,8,1,3,High,Exceeds Expectations,Single,18
+No,Sales,Manager,76077.47149745433,51,None,10,9,3,High,Not Effective,Divorced,2
+No,IT and Analytics,Senior Manager,81249.63335965588,48,None,19,11,3,Medium,Meets Expectations,Single,10
+Yes,Research,Associate,43394.08561163234,58,Frequently,3,2,5,Medium,Exceeds Expectations,Single,1
+Yes,Product Development,Senior Manager,88990.62175858897,58,Rarely,3,1,3,Low,Minimally Effective,Married,3
+No,Sales,Vice President,181520.72472026284,42,None,20,2,2,High,Exceptional,Married,2
+No,IT and Analytics,Vice President,172580.0460864202,52,Rarely,19,9,3,High,Meets Expectations,Married,2
+No,Sales,Senior Manager,88749.39492753759,44,Rarely,7,7,3,Medium,Exceeds Expectations,Single,8
+No,Product Development,Manager,70799.3402208384,54,None,4,0,2,High,Meets Expectations,Divorced,16
+No,Research,Senior Manager,88283.15326188064,44,Rarely,9,1,1,Very High,Exceptional,Divorced,9
+No,IT and Analytics,Director,121519.21905525916,54,Rarely,9,8,1,Very High,Exceeds Expectations,Single,2
+No,Research,Director,120102.29352957243,46,Frequently,9,1,2,Low,Exceeds Expectations,Divorced,1
+No,IT and Analytics,Senior Manager,95063.42543867005,48,Frequently,9,1,3,High,Meets Expectations,Single,4
+No,Research,Senior Manager,106121.97617759841,55,Rarely,33,0,2,Medium,Meets Expectations,Divorced,5
+No,Finance and Operations,Director,111126.41623436613,46,Rarely,7,1,5,Low,Meets Expectations,Divorced,2
+No,IT and Analytics,Director,112406.92902486278,55,Rarely,10,9,3,Low,Exceptional,Single,15
+No,Finance and Operations,Director,120664.56513016671,45,Rarely,3,1,2,Very High,Exceeds Expectations,Married,19
+Yes,Sales,Manager,69103.8287432988,61,Rarely,10,5,5,Low,Exceptional,Married,7
+No,Marketing,Senior Manager,78408.37872430193,51,Rarely,4,0,2,Medium,Meets Expectations,Married,1
+No,IT and Analytics,Senior Manager,92312.25988331648,48,Frequently,15,6,1,Low,Exceptional,Married,7
+No,Marketing,Senior Manager,93696.77913306239,48,Rarely,10,0,2,Very High,Exceeds Expectations,Single,4
+No,IT and Analytics,Director,107984.08074896476,49,Rarely,1,0,3,Very High,Exceeds Expectations,Married,11
+No,IT and Analytics,Manager,73543.48907441761,50,Rarely,5,0,2,Medium,Meets Expectations,Single,11
+No,IT and Analytics,Manager,71211.76971675253,51,None,0,0,2,Very High,Minimally Effective,Single,1
+No,Sales,Vice President,197965.06420596535,52,Rarely,9,0,2,Very High,Meets Expectations,Married,1
+No,Sales,Director,113114.58846266096,48,Frequently,6,0,2,Very High,Exceptional,Single,2
+Yes,Product Development,Manager,62123.620629968835,55,Rarely,19,3,5,High,Meets Expectations,Single,13
+No,Marketing,Senior Manager,88142.8857215565,56,Rarely,19,15,2,Medium,Exceptional,Married,23
+No,Research,Manager,70448.54504647372,48,None,5,0,3,High,Exceeds Expectations,Divorced,26
+No,Research,Senior Manager,86590.95405491335,46,Rarely,12,11,3,High,Exceptional,Divorced,2
+No,IT and Analytics,Vice President,202676.68648791322,42,Rarely,8,7,2,High,Meets Expectations,Married,29
+Yes,Product Development,Director,130725.96274569457,59,Frequently,1,0,2,Very High,Meets Expectations,Single,2
+Yes,Product Development,Senior Manager,92964.75590790296,58,Frequently,4,3,5,High,Minimally Effective,Married,18
+No,IT and Analytics,Senior Manager,91334.72837805461,50,Frequently,4,0,2,High,Minimally Effective,Divorced,7
+No,Finance and Operations,Senior Manager,87309.80679263486,54,Rarely,14,4,4,Very High,Exceptional,Single,2
+No,IT and Analytics,Senior Manager,88410.12166851824,48,Rarely,5,0,5,Low,Meets Expectations,Married,26
+Yes,Sales,Associate,40239.674289722076,65,Rarely,10,6,4,High,Meets Expectations,Married,22
+No,IT and Analytics,Associate,35928.770738385756,43,Rarely,5,1,2,Very High,Meets Expectations,Married,21
+No,Sales,Senior Manager,93603.97660024387,51,Frequently,4,3,3,Medium,Meets Expectations,Married,2
+No,Sales,Senior Manager,77848.10504476912,51,Frequently,6,3,3,Very High,Meets Expectations,Divorced,22
+No,Product Development,Vice President,165415.5728226275,46,Rarely,6,1,3,High,Exceeds Expectations,Married,4
+No,Product Development,Director,113245.15760399622,48,Frequently,5,1,1,Very High,Exceptional,Married,5
+No,Sales,Senior Manager,97363.88069619381,40,Rarely,3,1,2,Medium,Exceeds Expectations,Married,2
+No,Sales,Senior Manager,87750.00618125405,47,None,6,0,5,High,Minimally Effective,Married,25
+No,IT and Analytics,Senior Manager,93092.97782029385,44,Rarely,3,1,3,High,Meets Expectations,Married,18
+No,IT and Analytics,Senior Manager,100966.89558619355,50,Frequently,5,0,6,High,Exceptional,Married,28
+No,Product Development,Manager,63182.67805703589,45,Rarely,20,1,3,High,Meets Expectations,Single,6
+No,Research,Vice President,167885.9513043814,45,Rarely,6,4,2,Very High,Meets Expectations,Married,10
+Yes,Product Development,Manager,77698.0213134964,55,Rarely,8,7,6,High,Exceeds Expectations,Single,17
+No,Research,Director,122461.62960951065,47,Rarely,4,1,3,Very High,Exceptional,Single,2
+No,Research,Senior Manager,84411.52317635968,54,Rarely,20,0,6,Low,Exceptional,Married,10
+No,IT and Analytics,Director,120644.58863602036,53,Rarely,5,0,7,Low,Meets Expectations,Married,8
+No,Sales,Director,119014.16846276307,50,Rarely,3,0,3,High,Meets Expectations,Single,11
+No,Marketing,Associate,42515.294132325456,47,Frequently,2,2,1,Very High,Not Effective,Single,18
+No,Research,Manager,74717.59252285233,47,Rarely,3,0,3,Very High,Exceeds Expectations,Married,1
+No,Research,Manager,68519.25850683366,49,Rarely,7,0,4,Low,Meets Expectations,Single,7
+No,Product Development,Vice President,189928.829233596,55,Rarely,10,0,2,Low,Exceptional,Single,17
+Yes,Product Development,Manager,67735.96813897268,61,Frequently,4,1,3,Low,Exceeds Expectations,Single,28
+Yes,Finance and Operations,Associate,40553.01484010924,63,Frequently,8,7,7,Very High,Meets Expectations,Single,14
+No,IT and Analytics,Manager,59268.9886844428,51,Rarely,20,12,2,Very High,Exceeds Expectations,Single,1
+No,Product Development,Senior Manager,81549.4662056851,44,Rarely,9,1,7,Low,Exceeds Expectations,Married,1
+No,Product Development,Director,115151.20947434012,49,Rarely,7,0,6,Very High,Exceptional,Divorced,1
+No,Research,Associate,40689.79899855689,49,Rarely,5,0,2,Medium,Exceptional,Single,3
+Yes,Sales,Manager,65077.041768302646,60,Frequently,1,0,6,High,Meets Expectations,Single,1
+No,Finance and Operations,Manager,80531.52107368625,55,Rarely,3,0,4,Low,Meets Expectations,Divorced,7
+No,IT and Analytics,Director,118368.17793732382,49,Rarely,3,1,3,Medium,Exceeds Expectations,Single,8
+No,IT and Analytics,Vice President,176281.97985857356,50,Frequently,4,1,2,Low,Exceeds Expectations,Divorced,1
+Yes,Product Development,Manager,64828.283329318925,62,Rarely,1,0,7,Medium,Meets Expectations,Single,8
+No,IT and Analytics,Vice President,189595.23156452688,46,Rarely,5,1,1,Low,Exceptional,Married,11
+No,Marketing,Manager,72672.28916872866,49,Rarely,10,1,2,Very High,Meets Expectations,Single,4
+No,IT and Analytics,Senior Manager,79767.1047606364,54,Rarely,3,0,3,Low,Meets Expectations,Married,16
+No,IT and Analytics,Senior Manager,98100.96946760817,49,Rarely,6,1,3,Very High,Minimally Effective,Married,1
+Yes,Product Development,Associate,42452.56326771046,62,Rarely,3,2,6,Low,Not Effective,Married,9
+No,Marketing,Vice President,191151.8095584631,52,None,6,1,3,High,Exceeds Expectations,Single,5
+No,Product Development,Senior Manager,81571.84519308453,48,Rarely,3,1,6,Low,Exceeds Expectations,Married,1
+No,Finance and Operations,Senior Manager,89247.02140832109,51,Rarely,20,5,3,High,Exceeds Expectations,Married,2
+No,Marketing,Manager,70005.7012737179,45,Rarely,5,0,3,High,Exceeds Expectations,Married,4
+No,Sales,Senior Manager,88088.81617942169,47,Rarely,4,0,2,Very High,Meets Expectations,Married,7
+No,Finance and Operations,Associate,42877.01609190473,50,Rarely,5,0,3,Medium,Minimally Effective,Married,1
+No,Research,Director,113375.83006661384,44,Rarely,4,0,1,High,Exceeds Expectations,Married,5
+No,Sales,Vice President,167616.36550311075,48,None,8,0,2,High,Meets Expectations,Divorced,9
+No,Finance and Operations,Senior Manager,96744.90649665661,53,Rarely,13,9,3,Very High,Exceeds Expectations,Divorced,8
+Yes,Finance and Operations,Associate,42492.22152596136,59,Rarely,7,4,3,Very High,Meets Expectations,Divorced,9
+Yes,Sales,Manager,60988.74837475914,59,None,1,0,3,Low,Meets Expectations,Single,2
+Yes,Product Development,Associate,39608.09293260467,56,Frequently,10,4,7,Medium,Meets Expectations,Single,1
+No,Product Development,Senior Manager,100311.55567493521,51,Rarely,7,0,4,Low,Exceptional,Divorced,20
+No,IT and Analytics,Associate,44018.80914440516,51,Rarely,3,0,1,Medium,Meets Expectations,Single,8
+Yes,Marketing,Associate,35290.62821893962,60,Frequently,2,2,6,Very High,Exceeds Expectations,Married,2
+No,IT and Analytics,Director,120485.78167985275,44,Rarely,3,1,2,Very High,Exceeds Expectations,Married,29
+No,Research,Senior Manager,89490.15666082947,50,Rarely,2,2,7,Low,Exceeds Expectations,Divorced,7
+Yes,Research,Manager,65245.90473397675,60,Rarely,2,2,7,High,Minimally Effective,Married,9
+No,Sales,Senior Manager,79228.51556304806,53,None,9,4,6,Medium,Exceeds Expectations,Divorced,8
+No,Sales,Senior Manager,82123.49687961342,45,Rarely,5,1,2,Low,Meets Expectations,Single,5
+No,Sales,Associate,41259.91713405125,54,None,5,0,6,High,Exceeds Expectations,Single,5
+No,Finance and Operations,Senior Manager,79101.437142143,46,Rarely,9,8,3,Medium,Meets Expectations,Single,2
+No,IT and Analytics,Director,125398.30283284449,44,Rarely,3,1,6,High,Exceeds Expectations,Married,5
+No,Product Development,Associate,44140.296067708216,50,Rarely,3,1,4,High,Exceeds Expectations,Divorced,2
+No,IT and Analytics,Director,114868.45916523508,49,Rarely,5,1,2,Medium,Minimally Effective,Single,20
+No,Finance and Operations,Director,112604.41186578138,50,Frequently,4,0,2,Low,Exceptional,Married,7
+No,Research,Manager,60562.446065096665,51,Rarely,13,3,3,Low,Exceptional,Single,3
+No,Sales,Director,113019.86050979179,49,Rarely,2,2,3,High,Exceeds Expectations,Married,16
+No,IT and Analytics,Manager,65176.80892310924,49,Frequently,12,5,3,Very High,Exceeds Expectations,Single,9
+No,IT and Analytics,Senior Manager,79319.1095663401,49,Frequently,1,0,2,High,Exceeds Expectations,Married,1
+No,IT and Analytics,Manager,68633.46198266886,46,None,1,0,3,High,Minimally Effective,Divorced,7
+No,Sales,Senior Manager,89572.24359390451,49,Rarely,12,2,2,High,Exceeds Expectations,Married,1
+No,IT and Analytics,Director,109163.31409616244,49,Rarely,8,0,3,Medium,Minimally Effective,Divorced,7
+No,Sales,Senior Manager,96701.96452728672,49,Frequently,14,6,1,Low,Exceptional,Divorced,15
+Yes,Sales,Associate,36849.10234701353,55,Frequently,3,1,5,High,Meets Expectations,Married,1
+Yes,Sales,Director,119870.63090239813,55,Frequently,5,0,7,Medium,Meets Expectations,Single,13
+Yes,Sales,Vice President,178782.17168729517,58,Rarely,15,10,3,Medium,Minimally Effective,Single,24
+No,Finance and Operations,Senior Manager,88529.41553813443,55,Rarely,1,0,3,High,Exceptional,Married,7
+Yes,Product Development,Director,114304.54558840595,61,Frequently,0,0,5,Low,Meets Expectations,Single,9
+No,IT and Analytics,Director,111506.44482462518,41,None,1,0,2,Medium,Exceeds Expectations,Married,13
+No,IT and Analytics,Director,112041.7977570376,50,Frequently,2,2,3,High,Exceeds Expectations,Single,2
+No,Sales,Manager,71363.69783236334,45,Rarely,10,0,2,High,Exceeds Expectations,Divorced,19
+No,Research,Senior Manager,102818.74493696695,48,Rarely,5,1,4,High,Exceeds Expectations,Divorced,1
+No,Marketing,Director,125668.2904277238,57,Rarely,3,1,3,High,Exceeds Expectations,Married,4
+No,IT and Analytics,Director,118523.13912459025,48,Rarely,5,0,3,Medium,Exceptional,Married,4
+No,IT and Analytics,Senior Manager,81312.89882692431,48,Rarely,5,1,2,High,Meets Expectations,Married,14
+Yes,IT and Analytics,Vice President,173040.56794676624,58,Frequently,0,0,4,Low,Meets Expectations,Single,2
+No,Finance and Operations,Vice President,201197.86651126549,50,Rarely,1,0,7,High,Exceeds Expectations,Divorced,1
+No,IT and Analytics,Director,115111.11360243407,46,Frequently,4,1,2,Low,Exceeds Expectations,Single,7
+No,IT and Analytics,Vice President,162451.974229514,45,Rarely,3,1,1,Low,Exceeds Expectations,Married,3
+No,Product Development,Senior Manager,100881.7146214293,42,Frequently,3,0,2,Medium,Exceptional,Married,2
+No,IT and Analytics,Director,126160.91115692699,50,Rarely,8,1,5,Medium,Meets Expectations,Married,29
+No,Product Development,Vice President,174313.18788587445,47,Rarely,0,0,1,High,Exceeds Expectations,Single,8
+No,Sales,Senior Manager,98385.23255608942,50,Rarely,5,0,3,Very High,Meets Expectations,Single,10
+No,Marketing,Senior Manager,92108.76834982845,48,Frequently,14,1,3,Very High,Exceeds Expectations,Divorced,11
+Yes,Sales,Senior Manager,82835.10023444048,61,Rarely,9,0,7,Low,Minimally Effective,Single,1
+No,Research,Senior Manager,89497.56541869265,48,Rarely,20,14,3,Low,Exceptional,Married,28
+No,Marketing,Senior Manager,88437.42401486645,46,Rarely,2,2,2,Medium,Exceeds Expectations,Single,6
+No,Research,Senior Manager,94329.232747561007,41,Rarely,13,5,6,Medium,Exceptional,Married,3
+No,IT and Analytics,Director,121171.70032004139,45,Rarely,11,3,3,Medium,Exceeds Expectations,Single,16
+No,Product Development,Senior Manager,94545.97108670804,53,Rarely,4,1,2,High,Exceptional,Single,20
+Yes,IT and Analytics,Senior Manager,97912.21108682414,56,Rarely,5,1,3,Low,Meets Expectations,Single,9
+No,Sales,Director,129060.93323548362,50,Rarely,10,8,3,High,Minimally Effective,Married,1
+Yes,Marketing,Associate,40140.38442617448,56,Frequently,7,7,3,High,Meets Expectations,Single,3
+No,Research,Manager,65267.119507556265,45,Frequently,32,13,1,Very High,Exceptional,Single,22
+No,Research,Manager,73279.76916486434,48,Rarely,11,5,7,High,Meets Expectations,Married,7
+No,Product Development,Senior Manager,95510.73883388763,48,Rarely,1,0,3,Medium,Meets Expectations,Married,2
+No,Marketing,Director,122801.9970099907,45,Rarely,10,3,2,Very High,Exceeds Expectations,Married,13
+No,Research,Director,121769.18248376914,53,Rarely,7,0,2,Low,Exceeds Expectations,Married,8
+No,IT and Analytics,Director,119486.65178041639,55,Rarely,5,0,3,Medium,Meets Expectations,Single,25
+No,Marketing,Director,120089.16598215977,50,Rarely,5,0,3,Very High,Exceeds Expectations,Married,28
+No,IT and Analytics,Senior Manager,87081.84134789075,49,Frequently,20,13,1,Very High,Meets Expectations,Married,2
+No,Research,Manager,61782.64492167433,47,Rarely,8,7,3,Low,Exceeds Expectations,Married,9
+No,Sales,Associate,37837.29358231361,47,Rarely,15,5,2,High,Exceeds Expectations,Married,28
+No,IT and Analytics,Manager,60867.697371884926,47,Rarely,21,7,3,Very High,Exceeds Expectations,Single,6
+No,IT and Analytics,Director,121831.68618119971,47,Rarely,1,0,2,Low,Meets Expectations,Divorced,21
+No,Marketing,Senior Manager,94321.73571483472,48,None,2,2,2,Very High,Meets Expectations,Divorced,8
+No,IT and Analytics,Senior Manager,81311.92214967699,49,Rarely,10,7,2,Medium,Exceeds Expectations,Divorced,1
+No,IT and Analytics,Manager,72249.6280464346,47,Rarely,5,4,1,High,Exceptional,Married,28
+No,Marketing,Manager,64513.39224350258,44,Rarely,7,2,2,Medium,Meets Expectations,Married,5
+No,Marketing,Director,118782.3424119048,50,Rarely,3,1,7,Very High,Minimally Effective,Single,2
+No,Research,Senior Manager,88212.77469863303,46,Rarely,8,7,3,High,Exceeds Expectations,Divorced,16
+No,IT and Analytics,Manager,72626.11144175901,52,Rarely,1,0,3,High,Meets Expectations,Married,9
+No,IT and Analytics,Director,120562.1973091672,47,Rarely,2,2,2,Low,Exceptional,Married,8
+Yes,Sales,Manager,56677.690441258215,62,Rarely,10,6,4,Low,Minimally Effective,Married,1
+No,Marketing,Senior Manager,91533.22286662133,47,Frequently,6,1,2,High,Meets Expectations,Married,10
+No,Product Development,Director,119427.20943317404,50,Rarely,3,1,1,Low,Meets Expectations,Single,1
+No,Marketing,Senior Manager,95325.28440781742,50,Rarely,4,1,3,Medium,Exceptional,Married,29
+Yes,Sales,Director,128490.4689378177,62,Rarely,1,0,6,Low,Minimally Effective,Divorced,2
+Yes,IT and Analytics,Manager,73362.08955223233,60,Rarely,33,1,5,Very High,Not Effective,Married,2
+Yes,Product Development,Senior Manager,89844.61073321303,55,Rarely,5,1,5,Medium,Not Effective,Married,2
+No,Sales,Manager,71145.01298618776,44,None,6,1,3,Low,Exceptional,Married,1
+No,Finance and Operations,Director,114984.08618707662,50,Rarely,8,7,2,Low,Meets Expectations,Married,15
+No,IT and Analytics,Manager,69311.42776008435,48,Rarely,1,0,3,Very High,Exceptional,Single,7
+No,Marketing,Associate,39240.037768278584,51,Rarely,36,2,3,Very High,Exceeds Expectations,Married,26
+No,IT and Analytics,Vice President,187473.54180748865,49,Rarely,2,2,1,Very High,Exceeds Expectations,Married,1
+No,IT and Analytics,Manager,69755.27637964541,47,Rarely,1,0,3,Very High,Exceptional,Married,3
+No,Sales,Senior Manager,98598.15739753634,45,Rarely,9,7,7,Medium,Exceptional,Married,14
+No,Research,Director,123233.15265794525,48,Rarely,3,1,3,Medium,Exceptional,Single,16
+No,IT and Analytics,Associate,39617.296694236866,46,Rarely,1,0,3,High,Meets Expectations,Single,1
+No,IT and Analytics,Manager,68610.36812314062,51,Rarely,10,1,3,Low,Exceptional,Single,3
+No,Sales,Associate,40284.34601573162,53,Rarely,5,0,3,High,Exceeds Expectations,Single,10
+No,IT and Analytics,Director,121854.37565193416,45,Rarely,7,7,2,High,Exceptional,Married,6
+No,IT and Analytics,Senior Manager,105034.88310468313,44,Frequently,6,1,2,Very High,Exceptional,Divorced,2
+No,Research,Director,118198.11757508808,42,Rarely,1,0,4,High,Meets Expectations,Married,9
+No,IT and Analytics,Senior Manager,90109.27425961585,49,Rarely,2,2,1,High,Meets Expectations,Married,10
+No,Sales,Associate,34217.75723242466,52,Frequently,3,0,3,Low,Exceptional,Married,6
+No,IT and Analytics,Senior Manager,83418.88510877865,49,Rarely,1,0,3,Very High,Exceeds Expectations,Single,9
+No,Research,Director,128514.71465046096,50,Rarely,10,6,3,High,Exceptional,Married,28
+No,Research,Senior Manager,79724.83093907501,51,Frequently,8,7,5,High,Exceptional,Married,10
+No,IT and Analytics,Director,122391.60269965991,56,Rarely,5,1,2,Low,Meets Expectations,Married,14
+No,IT and Analytics,Associate,40833.56327208718,47,Rarely,6,0,7,Medium,Exceeds Expectations,Divorced,27
+No,Product Development,Manager,67006.75834853674,48,Rarely,1,0,2,Very High,Meets Expectations,Married,7
+No,Marketing,Manager,72422.90402961553,48,Rarely,26,0,3,Low,Meets Expectations,Single,1
+Yes,Sales,Senior Manager,98366.90162387538,57,Rarely,1,0,3,Medium,Meets Expectations,Married,24
+No,Research,Director,111409.13884090094,49,None,4,1,1,High,Exceptional,Married,26
+No,IT and Analytics,Senior Manager,85407.93919713396,45,Frequently,30,12,2,High,Exceeds Expectations,Married,20
+No,IT and Analytics,Associate,41894.9711074459,48,Rarely,3,0,3,Very High,Exceptional,Married,5
+No,Product Development,Director,123273.13062980169,51,Rarely,22,1,7,Very High,Meets Expectations,Divorced,7
+No,Finance and Operations,Senior Manager,89186.36587444489,45,Rarely,6,1,3,Medium,Exceptional,Married,7
+No,Research,Vice President,198930.30142386197,48,Rarely,10,1,3,Low,Meets Expectations,Single,5
+No,IT and Analytics,Senior Manager,91745.9720038581,45,None,10,4,3,Low,Exceptional,Married,26
+No,Marketing,Vice President,180127.12711498849,50,Frequently,5,0,3,Low,Meets Expectations,Single,2
+No,Marketing,Director,119512.61507734474,51,Rarely,3,1,3,High,Exceeds Expectations,Married,12
+No,IT and Analytics,Director,113697.74350990585,51,Frequently,9,7,3,Very High,Meets Expectations,Divorced,10
+No,Research,Vice President,201305.51218284457,44,Rarely,9,1,3,Low,Exceptional,Married,25
+No,Marketing,Senior Manager,84710.67715232403,44,Rarely,7,7,3,Low,Meets Expectations,Married,10
+No,IT and Analytics,Director,115737.05881935594,50,Rarely,7,0,3,Low,Meets Expectations,Divorced,19
+No,IT and Analytics,Senior Manager,90858.68977560746,46,Rarely,16,1,6,Low,Meets Expectations,Married,18
+No,Marketing,Director,123790.05780775487,45,Rarely,5,0,2,Low,Exceptional,Divorced,27
+No,Research,Director,111650.78439908852,43,Rarely,2,2,3,Very High,Exceptional,Single,5
+Yes,Finance and Operations,Associate,42243.819258219075,57,Frequently,0,0,5,Very High,Minimally Effective,Single,3
+No,Sales,Director,131303.64940231483,49,Rarely,5,1,3,High,Exceptional,Married,26
+No,IT and Analytics,Senior Manager,93849.17140579724,49,Rarely,10,0,2,High,Exceptional,Divorced,3
+No,Sales,Director,124398.12805253125,47,Rarely,18,14,2,High,Exceeds Expectations,Married,15
+No,IT and Analytics,Manager,64323.82558223033,49,None,14,2,2,High,Minimally Effective,Married,8
+No,IT and Analytics,Vice President,160605.07109722347,42,Rarely,4,0,2,High,Meets Expectations,Married,19
+No,IT and Analytics,Director,118510.73427439052,47,Frequently,9,3,4,High,Exceptional,Single,4
+No,IT and Analytics,Director,125869.452637652,47,Rarely,10,3,3,Very High,Meets Expectations,Divorced,2
+No,Sales,Senior Manager,93598.63722085583,48,Rarely,5,0,3,High,Meets Expectations,Married,2
+Yes,IT and Analytics,Manager,75857.36877382151,54,Rarely,13,6,2,Low,Meets Expectations,Married,10
+No,Research,Senior Manager,91283.03163266931,43,Rarely,8,7,3,Medium,Meets Expectations,Married,10
+No,Marketing,Manager,69897.79408700179,51,Rarely,4,3,3,Very High,Exceeds Expectations,Single,16
+No,Marketing,Senior Manager,82634.05097828366,47,Frequently,10,0,3,Very High,Meets Expectations,Married,1
+No,IT and Analytics,Senior Manager,73641.56386848906,53,Frequently,2,2,7,Very High,Meets Expectations,Married,4
+Yes,Sales,Vice President,178503.80256645483,58,Rarely,2,2,5,Very High,Exceeds Expectations,Divorced,15
+No,Product Development,Senior Manager,78755.41160431174,51,Frequently,6,1,3,Very High,Minimally Effective,Single,2
+No,Product Development,Senior Manager,86464.18099124885,52,Rarely,3,0,1,High,Minimally Effective,Married,8
+No,Marketing,Director,126978.10366496637,43,Frequently,4,1,4,Very High,Meets Expectations,Single,2
+Yes,Finance and Operations,Manager,70106.3405967261,58,Rarely,4,0,5,Low,Exceeds Expectations,Single,7
+No,IT and Analytics,Senior Manager,99089.34735591017,49,Rarely,5,1,2,High,Exceptional,Single,10
+No,Research,Senior Manager,87338.9382016946,48,Rarely,3,0,5,Low,Meets Expectations,Married,5
+No,Sales,Vice President,176370.64771527867,49,Frequently,7,0,1,High,Exceeds Expectations,Divorced,2
+No,IT and Analytics,Director,107177.84240583282,48,Rarely,5,1,2,Medium,Exceptional,Married,12
+No,IT and Analytics,Senior Manager,90616.86714159728,50,Rarely,4,1,2,Medium,Exceptional,Married,22
+No,IT and Analytics,Director,114364.21358158441,50,Rarely,14,1,2,Low,Exceeds Expectations,Divorced,17
+No,Marketing,Senior Manager,87570.4330302674,54,Rarely,2,2,3,High,Exceeds Expectations,Single,2
+No,Research,Senior Manager,95217.60694946155,50,Rarely,11,7,3,Medium,Exceeds Expectations,Divorced,3
+No,Research,Senior Manager,92949.68695120057,55,Rarely,4,1,3,Medium,Meets Expectations,Single,7
+No,IT and Analytics,Manager,80085.02205786617,55,Rarely,15,2,3,High,Exceeds Expectations,Married,6
+No,Marketing,Manager,76057.2402540792,46,None,3,1,3,High,Meets Expectations,Married,1
+No,Product Development,Manager,74982.21197360162,44,Rarely,5,0,6,Low,Exceptional,Divorced,3
+No,Marketing,Director,118838.18329862694,51,Rarely,10,4,3,High,Meets Expectations,Married,22
+No,Sales,Senior Manager,81919.24098556131,51,Rarely,14,6,5,High,Exceeds Expectations,Married,15
+Yes,Product Development,Associate,38837.14416129178,58,Frequently,11,6,4,Very High,Not Effective,Single,12
+No,IT and Analytics,Associate,49069.781326371405,52,Frequently,13,2,2,Very High,Meets Expectations,Married,1
+No,Sales,Senior Manager,92540.05739893598,47,Rarely,10,0,2,Medium,Exceeds Expectations,Divorced,5
+No,Sales,Senior Manager,89893.64561133552,46,Rarely,6,0,3,Very High,Exceeds Expectations,Divorced,2
+No,Research,Manager,67922.0770441999,54,Rarely,9,1,3,Medium,Exceptional,Divorced,2
+No,IT and Analytics,Associate,29848.556570650304,50,Rarely,10,0,2,Very High,Exceptional,Married,5
+No,IT and Analytics,Manager,60882.575442514986,51,Rarely,2,2,4,Low,Exceeds Expectations,Divorced,16
+No,Product Development,Senior Manager,86920.92565054673,55,Frequently,4,3,6,Medium,Meets Expectations,Single,2
+No,IT and Analytics,Director,124283.48769134305,52,Rarely,3,1,7,Medium,Meets Expectations,Divorced,2
+No,Research,Director,117643.32614511157,55,Rarely,8,0,3,High,Exceptional,Single,1
+No,Product Development,Manager,68060.23481207676,48,Rarely,2,0,3,High,Exceptional,Single,23
+No,IT and Analytics,Director,117400.41946506841,50,Rarely,2,0,1,Low,Exceeds Expectations,Single,9
+No,Marketing,Senior Manager,91499.57285706668,46,None,6,1,4,Very High,Exceptional,Divorced,16
+No,IT and Analytics,Vice President,182893.81434071515,49,Rarely,3,0,2,High,Meets Expectations,Married,26
+No,Marketing,Senior Manager,87204.70635068552,46,Rarely,2,2,2,Very High,Exceeds Expectations,Divorced,1
+Yes,Sales,Senior Manager,95474.97388707039,55,Rarely,5,1,1,High,Meets Expectations,Single,8
+No,Research,Director,111593.41981014071,46,Rarely,0,0,3,High,Exceeds Expectations,Married,4
+No,Research,Manager,62879.509720428614,48,Rarely,4,1,2,Very High,Exceeds Expectations,Married,24
+Yes,Sales,Manager,75980.10310536926,60,Frequently,9,7,4,High,Meets Expectations,Married,7
+Yes,Sales,Manager,71004.40337360027,55,Rarely,1,0,4,Medium,Meets Expectations,Single,2
+No,Research,Vice President,188987.71702771436,50,None,7,5,3,Very High,Exceptional,Single,7
+No,Sales,Associate,37234.54611750749,50,Rarely,4,1,2,Medium,Exceptional,Divorced,22
+No,Marketing,Senior Manager,85899.2885104432,48,Rarely,15,4,7,Very High,Meets Expectations,Married,5
+No,Research,Manager,83955.4190344496,52,Rarely,1,0,2,Very High,Exceeds Expectations,Divorced,1
+No,Product Development,Director,114457.65403613166,46,Rarely,14,2,1,Medium,Exceptional,Married,21
+No,Marketing,Senior Manager,95567.72289526832,52,Frequently,6,1,4,Very High,Meets Expectations,Divorced,1
+No,IT and Analytics,Director,124420.71613090171,52,Rarely,10,8,6,Very High,Exceptional,Married,19
+Yes,Marketing,Vice President,206581.50961716712,62,Rarely,3,0,5,Very High,Meets Expectations,Divorced,7
+No,IT and Analytics,Vice President,168338.06281780804,48,Rarely,8,6,6,Very High,Meets Expectations,Married,2
+No,Marketing,Senior Manager,91601.45721077592,49,Frequently,5,1,3,Very High,Exceeds Expectations,Single,2
+No,Marketing,Senior Manager,81985.09426888553,45,Rarely,10,8,5,Very High,Meets Expectations,Married,2
+No,Marketing,Vice President,179902.30118844693,51,Rarely,5,0,3,High,Meets Expectations,Married,9
+No,Research,Senior Manager,87430.92049910758,49,Rarely,10,8,2,High,Exceeds Expectations,Single,6
+No,Research,Senior Manager,98344.82299893626,48,Rarely,5,1,3,High,Exceptional,Married,9
+No,IT and Analytics,Senior Manager,87806.7154631835,51,Rarely,13,6,2,Very High,Exceeds Expectations,Single,2
+No,Sales,Senior Manager,75316.14693238892,46,None,23,14,2,High,Meets Expectations,Married,1
+Yes,Sales,Associate,37359.403280344064,65,Rarely,1,0,4,High,Meets Expectations,Married,22
+Yes,Sales,Associate,40843.851816583294,62,Frequently,23,14,6,High,Meets Expectations,Married,9
+No,Research,Senior Manager,87297.19084205679,46,Rarely,3,0,2,High,Meets Expectations,Married,17
+No,Research,Associate,33319.223607065076,52,Rarely,21,8,3,Medium,Exceeds Expectations,Single,28
+No,Product Development,Senior Manager,81120.3217545189,47,Frequently,5,1,3,High,Meets Expectations,Married,10
+No,Research,Senior Manager,91785.98462833748,50,Rarely,5,0,2,High,Meets Expectations,Married,2
+No,IT and Analytics,Senior Manager,95081.33033357357,45,None,3,1,3,Medium,Exceeds Expectations,Married,4
+No,IT and Analytics,Associate,34414.91785247572,51,Rarely,1,0,3,Low,Exceeds Expectations,Married,8
+No,Product Development,Senior Manager,90006.39198749792,46,Rarely,6,1,4,Low,Meets Expectations,Divorced,29
+No,Product Development,Director,113377.62014619976,46,Rarely,10,0,1,Medium,Exceptional,Single,13
+No,Research,Director,120493.88878203185,49,Rarely,7,0,2,High,Exceptional,Married,27
+No,IT and Analytics,Director,122166.15297772827,48,Rarely,10,0,7,Very High,Exceptional,Married,16
+No,Sales,Senior Manager,82441.87502272248,42,None,1,0,5,Medium,Exceeds Expectations,Married,2
+No,Product Development,Director,128552.00530313309,49,Rarely,10,0,3,Very High,Exceeds Expectations,Divorced,2
+Yes,Marketing,Associate,32394.51981430267,59,Rarely,2,2,4,Low,Minimally Effective,Divorced,13
+Yes,Sales,Associate,32072.97141256696,65,Rarely,0,0,5,Medium,Exceptional,Single,1
+No,Marketing,Senior Manager,93773.95911239643,48,Rarely,3,1,1,Medium,Meets Expectations,Single,4
+No,Marketing,Senior Manager,89951.59062890807,44,Frequently,5,1,3,Very High,Meets Expectations,Single,24
+No,Sales,Director,115909.39707677413,47,None,9,5,3,Very High,Exceptional,Married,1
+No,Finance and Operations,Senior Manager,76133.96794133523,50,Rarely,4,0,3,High,Meets Expectations,Married,19
+No,Product Development,Director,121097.14271354898,51,Rarely,21,12,3,Medium,Exceeds Expectations,Single,7
+No,Sales,Director,120073.1288918304,46,Rarely,5,0,1,High,Exceeds Expectations,Married,4
+No,Research,Manager,70847.95526342439,48,Frequently,9,0,3,Low,Exceptional,Single,2
+No,Sales,Associate,41851.15728460112,48,Frequently,2,2,2,Very High,Meets Expectations,Married,10
+Yes,Marketing,Associate,41859.536520881215,54,Frequently,4,1,7,Very High,Meets Expectations,Divorced,8
+No,IT and Analytics,Director,113696.34392248513,50,Rarely,5,0,3,High,Exceptional,Married,5
+No,Marketing,Manager,60609.646692878654,47,Rarely,6,1,2,Very High,Meets Expectations,Single,8
+Yes,Sales,Manager,76131.94211599411,60,Rarely,2,2,6,Medium,Meets Expectations,Single,9
+No,Sales,Director,119274.35301660348,48,Frequently,3,0,3,High,Exceeds Expectations,Single,1
+No,IT and Analytics,Senior Manager,86620.40126782317,52,Rarely,7,1,2,Low,Exceeds Expectations,Divorced,15
+No,IT and Analytics,Manager,64631.71954700111,48,Rarely,5,1,3,Very High,Meets Expectations,Married,2
+No,Product Development,Senior Manager,89692.72442406282,50,None,11,1,3,Medium,Meets Expectations,Single,2
+No,Marketing,Associate,41371.61290612019,51,Rarely,5,0,2,Very High,Exceeds Expectations,Single,11
+Yes,IT and Analytics,Senior Manager,92861.29234848512,62,Rarely,0,0,6,Low,Minimally Effective,Single,16
+No,Marketing,Manager,65808.95332046022,47,Frequently,6,0,2,Medium,Meets Expectations,Married,2
+Yes,IT and Analytics,Manager,67643.45922147771,53,Rarely,1,0,4,High,Exceeds Expectations,Married,16
+No,Marketing,Manager,83971.69885426937,51,Rarely,1,0,1,Low,Meets Expectations,Divorced,4
+No,Marketing,Senior Manager,86151.1675800134,48,Rarely,7,1,4,High,Exceptional,Married,16
+No,Sales,Senior Manager,93282.41027684826,41,None,7,0,3,Medium,Exceeds Expectations,Single,5
+No,Research,Director,128786.90434805429,49,Rarely,1,1,1,Very High,Exceptional,Married,18
+Yes,Sales,Manager,69735.18746589699,60,Frequently,1,0,4,High,Exceeds Expectations,Married,17
+No,Marketing,Manager,65910.51487664945,49,Rarely,5,0,1,Medium,Meets Expectations,Divorced,12
+No,Sales,Director,123628.15996130843,45,Rarely,1,0,2,Low,Meets Expectations,Married,2
+No,Marketing,Director,118217.00187495022,50,None,9,1,2,Medium,Not Effective,Divorced,4
+No,Marketing,Senior Manager,74971.231444707,47,Rarely,5,0,2,Low,Meets Expectations,Divorced,9
+No,IT and Analytics,Manager,84269.55656342732,52,None,15,0,7,High,Exceeds Expectations,Divorced,10
+No,IT and Analytics,Director,123378.67172625623,42,None,3,0,1,High,Meets Expectations,Married,1
+No,Research,Director,121072.92649817874,52,Rarely,9,1,3,Very High,Meets Expectations,Single,2
+No,Research,Senior Manager,85061.36086545237,55,Rarely,2,2,3,Very High,Meets Expectations,Single,3
+Yes,IT and Analytics,Manager,70344.20024853884,60,Rarely,1,1,6,Medium,Minimally Effective,Single,7
+No,Product Development,Director,118501.1790584513,46,Rarely,5,0,7,High,Meets Expectations,Married,6
+Yes,Marketing,Associate,34997.65832940637,60,Rarely,1,0,6,Low,Exceeds Expectations,Married,8
+No,IT and Analytics,Director,123392.07526214959,48,Rarely,12,5,3,Very High,Meets Expectations,Married,29
+No,Marketing,Manager,62361.248164892444,48,Rarely,2,2,3,High,Exceptional,Married,3
+No,Research,Senior Manager,80137.32196260482,48,Rarely,5,0,2,Medium,Exceeds Expectations,Married,9
+No,IT and Analytics,Director,116077.54897854048,50,Rarely,2,2,1,Very High,Not Effective,Divorced,2
+No,Marketing,Director,128069.75896991318,46,Rarely,12,5,2,Low,Exceptional,Married,10
+Yes,IT and Analytics,Vice President,211621.02761542654,60,Frequently,5,2,6,Medium,Meets Expectations,Divorced,1
+No,IT and Analytics,Manager,67835.07343353586,51,Rarely,10,4,3,Medium,Minimally Effective,Divorced,8
+Yes,Sales,Senior Manager,71271.11868455692,57,Rarely,10,7,4,Very High,Minimally Effective,Single,27
+No,Marketing,Director,119938.14827811661,52,Rarely,10,7,3,Low,Exceptional,Married,8
+No,Research,Associate,45338.28833074107,48,Rarely,5,0,6,Very High,Meets Expectations,Married,1
+No,Research,Senior Manager,83436.30639841201,49,Rarely,4,2,3,High,Exceeds Expectations,Single,10
+No,Marketing,Senior Manager,82643.6901061758,45,None,2,2,2,Medium,Exceeds Expectations,Single,26
+No,Product Development,Vice President,172742.44444953764,49,Rarely,4,0,2,Low,Exceeds Expectations,Married,2
+No,Sales,Manager,67188.26002415737,44,Rarely,0,0,3,Low,Meets Expectations,Married,13
+No,IT and Analytics,Manager,66318.01200463584,51,None,7,1,5,Very High,Meets Expectations,Divorced,2
+No,Research,Senior Manager,91035.07531456066,45,None,11,3,2,Medium,Exceeds Expectations,Divorced,2
+Yes,Finance and Operations,Manager,74466.07639673156,55,Frequently,7,0,6,Low,Meets Expectations,Married,9
+Yes,Sales,Manager,66114.83881886043,54,Rarely,10,0,4,Low,Minimally Effective,Single,10
+No,Research,Director,134434.6926068408,45,Frequently,2,2,1,Very High,Exceeds Expectations,Divorced,20
+No,Finance and Operations,Director,129969.47692873802,45,None,3,1,2,High,Exceeds Expectations,Single,9
+No,IT and Analytics,Vice President,181300.32763895506,51,Rarely,3,1,3,Medium,Exceeds Expectations,Single,5
+No,Research,Director,118821.64357680816,45,Rarely,22,13,2,High,Exceeds Expectations,Divorced,4
+No,Finance and Operations,Manager,72349.25619038263,50,Rarely,7,0,2,High,Minimally Effective,Single,10
+Yes,Product Development,Director,115834.30564389603,61,Rarely,5,1,5,Medium,Meets Expectations,Married,20
+Yes,Sales,Manager,67453.2077674598,58,Rarely,9,3,5,Medium,Meets Expectations,Married,21
+No,IT and Analytics,Associate,47033.052244892635,46,Rarely,5,0,3,Very High,Exceptional,Divorced,1
+No,Product Development,Director,122376.3148461626,51,Rarely,10,4,2,High,Exceeds Expectations,Married,8
+No,IT and Analytics,Senior Manager,85369.49774575753,43,None,16,14,2,Medium,Meets Expectations,Divorced,2
+No,Research,Senior Manager,105000.265408491,47,Rarely,5,0,2,High,Meets Expectations,Married,23
+No,Marketing,Senior Manager,90552.33843012433,49,Rarely,22,14,6,Medium,Exceeds Expectations,Divorced,4
+No,Marketing,Vice President,177124.45637258238,47,Rarely,7,7,6,Low,Meets Expectations,Divorced,12
+No,Sales,Senior Manager,76871.88570498848,46,Rarely,7,1,3,Very High,Exceptional,Married,7
+No,IT and Analytics,Director,115535.60899584358,50,Frequently,3,2,3,Low,Exceeds Expectations,Married,7
+No,IT and Analytics,Director,118983.20447489312,47,Rarely,3,1,3,Low,Exceeds Expectations,Married,1
+No,IT and Analytics,Vice President,164815.5283136979,48,Rarely,4,0,3,Very High,Exceeds Expectations,Married,2
+No,Sales,Vice President,183795.28119027356,45,Rarely,5,1,2,Very High,Meets Expectations,Single,10
+No,IT and Analytics,Senior Manager,100656.59626768636,47,Frequently,2,2,2,High,Minimally Effective,Married,15
+No,Marketing,Senior Manager,88771.26469137282,47,None,0,0,3,High,Exceeds Expectations,Single,14
+Yes,Finance and Operations,Senior Manager,83630.04590865126,64,Rarely,1,0,6,Low,Meets Expectations,Married,18
+Yes,Product Development,Associate,46370.14248256432,61,Rarely,2,2,3,Low,Meets Expectations,Divorced,13
+No,Marketing,Senior Manager,97621.913126694315,51,None,8,5,3,High,Exceeds Expectations,Married,2
+No,IT and Analytics,Manager,70405.95893971006,49,Rarely,1,0,3,Medium,Meets Expectations,Married,2
+No,Research,Senior Manager,85001.34649121783,48,Frequently,7,7,2,Very High,Exceeds Expectations,Married,2
+No,Research,Director,121156.53141494116,42,Frequently,5,0,3,Very High,Exceeds Expectations,Single,5
+No,Research,Senior Manager,81140.23108615397,46,Frequently,11,3,2,Very High,Meets Expectations,Married,20
+No,Research,Director,125356.65593600545,49,Frequently,0,0,3,Very High,Meets Expectations,Single,10
+No,IT and Analytics,Senior Manager,98371.27509938818,49,None,6,3,4,High,Exceptional,Married,10
+No,Research,Associate,47715.18198234601,49,Rarely,2,2,2,High,Meets Expectations,Single,9
+No,IT and Analytics,Manager,75936.31222498901,48,Rarely,9,4,1,Very High,Exceeds Expectations,Divorced,2
+No,IT and Analytics,Senior Manager,88891.98286132548,46,None,3,2,1,Very High,Exceeds Expectations,Divorced,1
+No,IT and Analytics,Senior Manager,75284.65432021138,45,Rarely,7,1,4,High,Exceptional,Divorced,29
+No,IT and Analytics,Director,118325.15753282956,49,Rarely,0,0,7,High,Exceptional,Single,8
+Yes,IT and Analytics,Manager,75142.16704254909,59,Rarely,2,2,3,Medium,Minimally Effective,Single,2
+No,Product Development,Associate,43956.84839749823,48,Rarely,19,2,5,Low,Meets Expectations,Divorced,3
+No,Sales,Vice President,177405.77468648757,44,Rarely,9,5,3,High,Exceeds Expectations,Married,23
+No,Research,Director,115746.46955803192,43,Rarely,1,0,1,Medium,Exceeds Expectations,Married,6
+No,Sales,Director,116043.99321709113,48,Rarely,16,6,1,High,Exceeds Expectations,Married,6
+No,Sales,Manager,77438.50852519335,46,Rarely,22,12,1,Medium,Meets Expectations,Married,10
+Yes,Sales,Manager,73598.53305791527,56,Frequently,1,1,6,Very High,Meets Expectations,Single,24
+Yes,Product Development,Associate,47953.883200537544,58,Rarely,8,0,4,Medium,Minimally Effective,Married,10
+No,Sales,Director,121005.06123831608,52,Frequently,7,7,2,Low,Meets Expectations,Married,15
+No,Research,Manager,68726.29379048031,52,Rarely,2,2,2,Very High,Meets Expectations,Divorced,19
+No,Finance and Operations,Senior Manager,100409.87345927436,52,Rarely,5,0,3,Very High,Meets Expectations,Married,2
+No,Marketing,Manager,68127.00857262904,49,Rarely,1,0,2,Medium,Meets Expectations,Married,3
+Yes,Sales,Manager,68282.38310028004,56,Rarely,1,0,3,Very High,Minimally Effective,Single,9
+Yes,Finance and Operations,Manager,71226.03010350146,60,Rarely,1,0,1,Medium,Meets Expectations,Single,7
+No,Marketing,Vice President,195197.70144693513,43,Rarely,10,1,3,High,Exceptional,Married,10
+No,Finance and Operations,Senior Manager,89013.33941547526,47,Rarely,10,0,3,High,Exceeds Expectations,Divorced,20
+No,Research,Vice President,187762.94824801685,46,Rarely,5,1,1,Very High,Exceeds Expectations,Married,4
+No,IT and Analytics,Associate,40663.8432556031,49,Rarely,3,1,6,Low,Meets Expectations,Single,7
+No,Research,Senior Manager,87500.77155973784,51,Rarely,5,0,3,Low,Meets Expectations,Married,7
+No,Sales,Manager,84337.54855688666,50,Rarely,3,0,3,Medium,Meets Expectations,Married,16
+No,Marketing,Senior Manager,79410.40544416492,50,Rarely,9,3,3,Very High,Meets Expectations,Married,25
+No,IT and Analytics,Director,116098.6939296996,44,Frequently,10,0,2,Very High,Exceeds Expectations,Single,2
+No,Research,Senior Manager,94819.36705867776,49,Rarely,19,11,3,Low,Exceptional,Divorced,1
+No,Marketing,Director,116782.33031075992,49,Rarely,1,1,4,High,Meets Expectations,Married,1
+No,IT and Analytics,Manager,74479.8313283431,51,Rarely,8,0,3,High,Exceptional,Single,2
+No,Product Development,Associate,43943.56265652376,50,Frequently,22,4,5,Very High,Meets Expectations,Divorced,22
+No,IT and Analytics,Associate,44476.60079223861,48,Rarely,2,2,2,Low,Minimally Effective,Married,1
+Yes,Marketing,Associate,43833.018752725526,58,None,5,3,5,Low,Meets Expectations,Married,16
+Yes,Research,Associate,41178.97685728288,58,Rarely,4,1,7,Very High,Minimally Effective,Single,24
+No,Marketing,Manager,71748.17898929253,46,Rarely,4,1,6,Medium,Exceeds Expectations,Married,17
+No,Marketing,Vice President,183343.8624952909,45,Rarely,5,1,2,Medium,Exceptional,Married,8
+No,IT and Analytics,Director,125173.8566877681,49,Rarely,13,5,3,Low,Meets Expectations,Married,6
+No,IT and Analytics,Director,119604.92544508129,49,Rarely,5,1,6,Very High,Exceptional,Divorced,10
+No,Marketing,Senior Manager,84903.77586932977,51,Rarely,4,0,1,Very High,Meets Expectations,Married,3
+No,Research,Director,125173.73986460954,46,Rarely,2,2,3,High,Meets Expectations,Divorced,4
+No,IT and Analytics,Senior Manager,83441.07064425234,49,Frequently,7,7,1,Very High,Exceptional,Married,6
+No,Sales,Director,122459.71983853994,47,Frequently,4,0,6,High,Minimally Effective,Single,1
+No,Marketing,Director,129608.68671610764,55,Rarely,10,0,5,High,Meets Expectations,Single,10
+No,IT and Analytics,Director,123243.16539443645,48,Frequently,7,0,3,Very High,Meets Expectations,Married,1
+Yes,Sales,Associate,40356.86227392993,61,Frequently,1,0,4,Low,Minimally Effective,Single,24
+No,Research,Director,119616.60460077603,49,None,3,1,6,High,Meets Expectations,Married,21
+No,Sales,Senior Manager,83651.36996403775,50,Rarely,5,1,2,Medium,Meets Expectations,Married,2
+No,IT and Analytics,Senior Manager,90379.97271074243,45,Frequently,15,6,3,Very High,Exceeds Expectations,Married,22
+Yes,Product Development,Director,122852.48838638836,62,Rarely,2,2,4,High,Minimally Effective,Single,13
+No,Product Development,Senior Manager,73545.07745185075,46,None,8,1,3,Medium,Exceeds Expectations,Married,14
+No,Research,Senior Manager,81048.99879581307,51,Rarely,0,0,6,Low,Exceeds Expectations,Married,11
+No,Marketing,Manager,72783.72176253966,47,Rarely,10,7,3,Low,Exceeds Expectations,Married,9
+No,Research,Director,122962.20488394517,48,Frequently,20,0,3,Medium,Meets Expectations,Divorced,8
+No,IT and Analytics,Senior Manager,83270.10116222907,50,Rarely,1,0,3,Very High,Exceptional,Married,21
+Yes,Product Development,Vice President,192306.16536010723,55,Frequently,4,0,1,High,Meets Expectations,Single,5
+No,Research,Manager,76814.66046134167,44,Rarely,5,0,5,Very High,Meets Expectations,Divorced,9
+No,IT and Analytics,Senior Manager,102657.63433699575,46,Frequently,5,4,3,Very High,Meets Expectations,Married,2
+No,Research,Senior Manager,101440.95940918056,49,Rarely,0,0,2,Very High,Exceptional,Divorced,12
+Yes,Sales,Associate,42588.933232110954,56,Frequently,1,0,5,Medium,Exceeds Expectations,Married,22
+No,Marketing,Senior Manager,91135.04214774,53,Rarely,5,0,1,Low,Exceptional,Married,18
+No,Sales,Senior Manager,84408.63552233923,47,None,5,1,2,High,Meets Expectations,Single,16
+No,IT and Analytics,Manager,61870.18774319879,44,None,4,2,2,Low,Meets Expectations,Divorced,3
+No,Product Development,Director,128658.29025113794,43,None,5,0,3,Medium,Exceeds Expectations,Married,9
+No,IT and Analytics,Director,117213.84827833794,47,Rarely,14,2,4,Very High,Exceptional,Single,1
+No,Sales,Associate,41870.17785404483,54,Rarely,8,1,2,High,Exceptional,Divorced,13
+No,IT and Analytics,Vice President,184909.53700086795,44,Rarely,7,7,4,Low,Meets Expectations,Single,1
+No,Research,Vice President,185041.5700775794,50,Rarely,5,0,3,Low,Exceeds Expectations,Married,1
+No,Finance and Operations,Director,120360.71912912659,52,None,5,1,7,Very High,Exceeds Expectations,Divorced,15
+No,Finance and Operations,Manager,71191.56380436434,45,Frequently,10,8,3,Low,Exceptional,Married,1
+Yes,Finance and Operations,Associate,41312.65221781637,57,Rarely,4,0,5,Very High,Minimally Effective,Divorced,17
+No,Marketing,Director,105939.18854079039,54,Rarely,1,0,6,Low,Minimally Effective,Single,1
+No,Research,Vice President,170351.90457945978,45,Rarely,10,0,5,Very High,Exceeds Expectations,Married,7
+No,Product Development,Manager,74618.91667062367,45,Rarely,7,0,3,Very High,Meets Expectations,Single,9
+No,Sales,Senior Manager,67981.14020311247,51,Rarely,1,0,1,Very High,Exceeds Expectations,Single,5
+Yes,Product Development,Manager,77175.35534710565,53,Frequently,10,0,5,Very High,Meets Expectations,Married,26
+Yes,Sales,Manager,67902.27652128057,64,Rarely,2,2,1,Low,Meets Expectations,Single,24
+No,Marketing,Senior Manager,92201.61323254374,44,Rarely,4,2,2,High,Meets Expectations,Married,9
+No,IT and Analytics,Senior Manager,90461.12651185453,52,Frequently,9,2,2,High,Exceeds Expectations,Divorced,7
+No,Sales,Senior Manager,81178.03887996155,47,Rarely,10,0,2,High,Exceptional,Married,11
+No,IT and Analytics,Senior Manager,83984.98858229257,44,Frequently,6,1,2,Medium,Exceeds Expectations,Married,1
+No,Sales,Director,121756.08459341149,50,Rarely,10,1,2,Medium,Exceeds Expectations,Married,26
+No,Sales,Vice President,173969.7318312717,48,Rarely,1,0,3,Very High,Exceeds Expectations,Divorced,2
+No,IT and Analytics,Associate,34200.07717018322,52,Rarely,20,11,3,Low,Exceeds Expectations,Single,15
+No,Research,Manager,65218.66500551239,53,None,20,3,3,High,Meets Expectations,Single,23
+No,Product Development,Senior Manager,87143.7480870568,48,None,11,4,1,High,Exceptional,Married,10
+No,IT and Analytics,Manager,65308.87896119301,44,Rarely,5,1,5,Low,Meets Expectations,Single,10
+No,IT and Analytics,Director,111383.5370001665,51,Rarely,4,1,3,High,Meets Expectations,Single,1
+No,Marketing,Senior Manager,76505.80583310459,49,Rarely,5,1,1,Very High,Exceptional,Single,12
+No,Research,Manager,64812.545746360156,50,Frequently,10,9,2,High,Exceptional,Married,11
+No,Marketing,Senior Manager,95729.95752487266,51,Rarely,11,5,5,Medium,Meets Expectations,Married,2
+No,IT and Analytics,Senior Manager,89254.66510360833,49,Rarely,2,1,2,Medium,Meets Expectations,Married,2
+No,Finance and Operations,Senior Manager,94148.58551185657,48,Rarely,12,1,3,Medium,Exceptional,Married,1
+No,IT and Analytics,Vice President,152650.78962973913,44,Rarely,2,0,5,High,Exceeds Expectations,Divorced,2
+No,Marketing,Manager,73959.66489716838,47,Rarely,17,12,2,High,Meets Expectations,Single,25
+No,Marketing,Associate,45208.086885307595,44,None,1,0,1,High,Exceeds Expectations,Divorced,1
+No,IT and Analytics,Senior Manager,89361.46125014003,50,Rarely,15,5,6,Medium,Meets Expectations,Married,1
+No,Marketing,Senior Manager,92666.43203494864,53,Rarely,2,1,2,High,Meets Expectations,Married,2
+No,Research,Manager,62689.9627222327,50,Frequently,8,7,3,High,Exceeds Expectations,Married,6
+No,Sales,Senior Manager,98724.72911424687,49,Rarely,4,1,2,Low,Meets Expectations,Divorced,18
+No,IT and Analytics,Senior Manager,94280.21490766882,48,Rarely,5,1,7,Very High,Exceeds Expectations,Married,1
+No,Sales,Senior Manager,105868.69461236565,50,None,13,5,4,Medium,Exceptional,Married,1
+No,IT and Analytics,Senior Manager,91802.30843992514,47,Rarely,2,2,3,High,Exceptional,Married,11
+No,Product Development,Senior Manager,96260.94369103428,54,Rarely,3,1,2,High,Exceeds Expectations,Single,1
+No,IT and Analytics,Associate,41797.132585379455,49,Rarely,10,0,3,High,Exceeds Expectations,Single,9
+No,Finance and Operations,Manager,72287.54240126125,48,Rarely,9,8,2,Very High,Exceeds Expectations,Married,15
+No,Product Development,Director,120152.44542971914,45,Rarely,6,4,2,Medium,Minimally Effective,Single,29
+No,Product Development,Vice President,161327.69629968365,51,Rarely,1,0,3,Very High,Meets Expectations,Married,1
+No,IT and Analytics,Manager,71584.58734647025,53,Rarely,2,2,3,Medium,Exceeds Expectations,Married,1
+No,Research,Senior Manager,79451.31128541702,48,Rarely,7,1,2,Very High,Meets Expectations,Single,24
+No,Marketing,Senior Manager,78458.6719828212,49,Rarely,18,1,2,High,Exceptional,Married,10
+No,IT and Analytics,Senior Manager,92830.72752759545,46,Rarely,14,5,5,Very High,Exceptional,Married,1
+No,Finance and Operations,Director,118239.91234820458,54,Rarely,16,6,3,Very High,Exceeds Expectations,Married,10
+No,Research,Senior Manager,100623.6706117541,52,Rarely,5,0,3,High,Exceptional,Divorced,8
+No,Sales,Manager,58988.698648340236,51,None,9,0,1,Very High,Meets Expectations,Divorced,29
+No,IT and Analytics,Associate,42154.67572130201,54,Rarely,4,1,1,Very High,Exceptional,Single,1
+No,Research,Director,125391.85171569843,50,Rarely,2,1,3,Low,Meets Expectations,Single,5
+No,Research,Director,124477.53203460365,43,None,6,1,3,Very High,Meets Expectations,Single,9
+Yes,Sales,Senior Manager,94387.82108214803,55,Frequently,1,1,1,Low,Meets Expectations,Married,9
+No,Marketing,Vice President,178675.5694670529,49,Rarely,9,3,3,Very High,Meets Expectations,Married,3
+No,IT and Analytics,Senior Manager,92847.9474808736,48,Frequently,4,0,2,Medium,Exceeds Expectations,Divorced,4
+No,Product Development,Senior Manager,79428.86386764588,51,None,13,1,3,High,Exceptional,Divorced,1
+Yes,Sales,Manager,70767.3053256635,55,Rarely,2,2,4,Very High,Meets Expectations,Married,1
+No,IT and Analytics,Senior Manager,89123.4129111947,44,Rarely,22,4,3,High,Meets Expectations,Married,2
+Yes,Sales,Associate,42927.09234744065,57,Rarely,10,9,5,High,Meets Expectations,Married,7
+No,IT and Analytics,Associate,35900.27776930052,52,Rarely,20,0,2,Medium,Exceeds Expectations,Married,28
+No,Marketing,Director,122207.78008799994,47,Rarely,8,1,4,High,Exceeds Expectations,Married,28
+No,Research,Director,114631.14037105648,49,None,15,11,3,Very High,Meets Expectations,Divorced,15
+No,Finance and Operations,Senior Manager,101291.0601555514,48,Rarely,5,0,2,Medium,Meets Expectations,Divorced,3
+No,Research,Senior Manager,84994.4493720012,52,Rarely,4,1,2,Low,Exceeds Expectations,Single,2
+No,Research,Associate,49333.32914487079,49,Rarely,9,1,6,Very High,Exceeds Expectations,Single,26
+No,Product Development,Director,119788.65973550155,49,Rarely,10,1,3,Very High,Exceeds Expectations,Married,10
+Yes,Product Development,Manager,61955.92765092711,57,Frequently,6,0,4,High,Meets Expectations,Divorced,1
+No,Marketing,Senior Manager,98231.91716396139,47,Rarely,6,0,3,Very High,Meets Expectations,Married,11
+No,IT and Analytics,Director,121303.69734537603,49,Rarely,5,0,3,High,Meets Expectations,Single,20
+No,Product Development,Senior Manager,104427.5042111136,52,Rarely,2,2,3,High,Meets Expectations,Single,2
+No,Research,Manager,60040.46917750226,46,Frequently,10,0,2,High,Meets Expectations,Married,18
+No,Marketing,Vice President,190092.1518582274,43,Rarely,5,0,2,High,Exceeds Expectations,Married,2
+No,Sales,Vice President,188142.2130300284,51,Rarely,4,1,3,Very High,Exceptional,Married,1
+No,Research,Associate,36979.4633127132,53,Rarely,4,0,3,Medium,Meets Expectations,Married,13
+No,IT and Analytics,Manager,72229.63936063148,49,Rarely,5,0,1,Low,Meets Expectations,Single,28
+Yes,Finance and Operations,Associate,43283.63480280255,58,Rarely,3,2,5,Low,Not Effective,Divorced,28
+No,Marketing,Senior Manager,85569.26695418065,47,Rarely,20,9,7,Very High,Exceeds Expectations,Married,24
+No,IT and Analytics,Manager,73565.34563572778,53,None,9,1,2,Low,Exceeds Expectations,Single,5
+No,Research,Director,117476.80887583908,48,Rarely,4,0,2,High,Exceptional,Single,5
+No,Sales,Vice President,169930.45831999165,48,Frequently,5,0,2,Very High,Exceeds Expectations,Married,23
+No,Research,Senior Manager,81375.68773894534,48,Rarely,7,1,1,Low,Meets Expectations,Married,6
+No,Research,Senior Manager,84913.36108147584,48,Rarely,6,0,2,Medium,Meets Expectations,Married,4
+No,IT and Analytics,Senior Manager,95340.24664108027,49,Frequently,9,0,3,Medium,Exceptional,Married,2
+No,Research,Director,123537.7576324206,53,Rarely,4,1,2,High,Exceeds Expectations,Married,8
